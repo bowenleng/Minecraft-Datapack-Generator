@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "seeddelight:sunflower_seed",
+    "deep_aether:squash_seeds",
+    "deep_aether:golden_grass_seeds",
+    "culturaldelights:cucumber_seeds",
+    "culturaldelights:eggplant_seeds",
+    "fruitsdelight:hamimelon_seeds",
+    "fruitsdelight:lemon_seeds",
+    "legendarysurvivaloverhaul:water_plant_seeds",
+    "legendarysurvivaloverhaul:sun_fern_seeds",
+    "legendarysurvivaloverhaul:ice_fern_seeds",
+    "trailandtales_delight:lantern_fruit_seeds",
+    "vinery:taiga_grape_seeds_white",
+    "vinery:taiga_grape_seeds_red",
+    "vinery:savanna_grape_seeds_white",
+    "vinery:jungle_grape_seeds_red",
+    "vinery:jungle_grape_seeds_white",
+    "vinery:white_grape_seeds",
+    "vinery:red_grape_seeds",
+    "vinery:savanna_grape_seeds_red",
+    "atmospheric:currant_seedling",
+    "expandeddelight:chili_pepper_seeds",
+    "expandeddelight:asparagus_seeds"
+  ]
+}
