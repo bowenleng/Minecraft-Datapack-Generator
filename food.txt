@@ -1,1365 +1,1384 @@
-supplementaries:lumisene_bottle 0.0
-supplementaries:candy 0.4
-seeddelight:cherry_ice_cream 9.6
-seeddelight:rosehip 4.0
-seeddelight:cherry 4.0
-seeddelight:roasted_beef_with_seed 12.0
-seeddelight:rosehip_pie_slice 0.4
-seeddelight:seed_tart 6.0
-seeddelight:fried_sunflower_seed 0.4
-seeddelight:cherry_pork 19.2
-seeddelight:pine_needle_wine 0.0
-seeddelight:pinenut_gruel 8.400001
-seeddelight:dried_watermelon_seed 0.4
-seeddelight:cherry_jam_sandwich 8.400001
-seeddelight:milk_cherry_mouss 7.2000003
-seeddelight:pinenut_with_meatballs 19.2
-seeddelight:sunflower_seed_toast 6.0
-seeddelight:cherry_wine 0.0
-seeddelight:acorn_tofu 6.0
-seeddelight:rosehip_jam_sandwich 8.400001
-seeddelight:rosehip_tea 0.0
-seeddelight:acorn_bread 6.0
-seeddelight:seed_rosehip_pie 6.0
-seeddelight:rosehip_cake 6.0
-seeddelight:stir_fried_cabbage_with_acorn 8.400001
-seeddelight:acorn_kernel 0.2
-seeddelight:rose_cookie 4.8
-seeddelight:pine_nut_kernel 0.2
-seeddelight:dried_pumpkin_seed 0.4
-seeddelight:sunflower_seed_crisp 6.4
-seeddelight:raw_acorn_noodle 6.0
-seeddelight:pinenut_cake 4.8
-aquaculturedelight:tuna_spaghetti 20.800001
-aquaculturedelight:buckling 11.2
-aquaculturedelight:crispy_nori_kelp 2.4
-aquaculturedelight:rollmops 11.0
-aquaculturedelight:crispy_fried_perch 4.8
-aquaculturedelight:fish_and_chips 24.0
-aquaculturedelight:fish_chorba 23.4
-aquaculturedelight:bass_stew 14.400001
-aquaculturedelight:unusual_fish_soup 17.6
-aquaculturedelight:jellyfish_jelly 7.2000003
-aquaculturedelight:fried_perch_roll 8.400001
-aquaculturedelight:halaszle 19.8
-aquaculturedelight:halibut_with_tartar_sauce 14.0
-aquaculturedelight:catfish_barbecue 8.4
-aquaculturedelight:small_turtle_meat 1.0
-aquaculturedelight:cooked_small_turtle_meat 3.0
-aquaculturedelight:large_fish_with_vegetables 15.6
-aquaculturedelight:raw_fish_fillet_roll 8.400001
-aquaculturedelight:baked_pollock_with_carrots 11.0
-aquaculturedelight:poor_fisher_chowder 7.0
-aquaculturedelight:turtle_meat_dish 18.199999
-nether_remastered:seal_of_the_underworld_item 0.0
-brewinandchewin:vegetable_omelet 19.2
-brewinandchewin:scarlet_cheese_wedge 8.0
-brewinandchewin:glittering_grenadine 0.0
-brewinandchewin:mead 0.0
-brewinandchewin:glow_berry_marmalade 4.8
-brewinandchewin:kippers 6.0
-brewinandchewin:red_rum 0.0
-brewinandchewin:salty_folly 0.0
-brewinandchewin:apple_jelly 12.0
-brewinandchewin:creamy_onion_soup 19.2
-brewinandchewin:cheesy_pasta 21.0
-brewinandchewin:fiery_fondue 21.0
-brewinandchewin:pickled_pickles 2.4
-brewinandchewin:horror_lasagna 17.6
-brewinandchewin:vodka 0.0
-brewinandchewin:pizza_slice 10.0
-brewinandchewin:kimchi 2.4
-brewinandchewin:flaxen_cheese_wedge 8.0
-brewinandchewin:dread_nog 0.0
-brewinandchewin:ham_and_cheese_sandwich 18.0
-brewinandchewin:cocoa_fudge 6.4
-brewinandchewin:pale_jane 0.0
-brewinandchewin:scarlet_pierogi 24.0
-brewinandchewin:quiche_slice 6.4
-brewinandchewin:kombucha 0.0
-brewinandchewin:steel_toe_stout 0.0
-brewinandchewin:withering_dross 0.0
-brewinandchewin:beer 0.0
-brewinandchewin:jerky 4.2
-brewinandchewin:rice_wine 0.0
-brewinandchewin:saccharine_rum 0.0
-brewinandchewin:sweet_berry_jam 4.8
-brewinandchewin:egg_grog 0.0
-brewinandchewin:strongroot_ale 0.0
-brewinandchewin:bloody_mary 0.0
-oceansdelight:elder_guardian_roll 8.400001
-oceansdelight:elder_guardian_slice 0.2
-oceansdelight:cooked_elder_guardian_slice 1.8000001
-oceansdelight:fugu_slice 0.2
-oceansdelight:baked_tentacle_on_a_stick 7.2000003
-oceansdelight:cooked_stuffed_cod 9.6
-oceansdelight:cut_tentacles 0.2
-oceansdelight:seagrass_salad 1.6
-oceansdelight:honey_fried_kelp 0.8
-oceansdelight:tentacles 1.8000001
-oceansdelight:stuffed_cod 1.2
-oceansdelight:cooked_guardian_tail 4.8
-oceansdelight:braised_sea_pickle 8.0
-oceansdelight:squid_rings 5.0
-oceansdelight:tentacle_on_a_stick 1.8000001
-oceansdelight:elder_guardian_slab 7.2000003
-oceansdelight:bowl_of_guardian_soup 24.0
-oceansdelight:cabbage_wrapped_elder_guardian 30.0
-oceansdelight:fugu_roll 8.400001
-oceansdelight:guardian_tail 0.8
-aquaculture:bluegill 0.2
-aquaculture:red_grouper 0.4
-aquaculture:piranha 0.2
-aquaculture:smallmouth_bass 0.4
-aquaculture:sushi 6.4
-aquaculture:tambaqui 0.4
-aquaculture:atlantic_herring 0.2
-aquaculture:synodontis 0.2
-aquaculture:atlantic_cod 1.2
-aquaculture:boulti 0.2
-aquaculture:algae 0.0
-aquaculture:brown_trout 0.4
-aquaculture:bayad 0.4
-aquaculture:muskellunge 0.4
-aquaculture:blackfish 0.4
-aquaculture:tuna 1.2
-aquaculture:atlantic_halibut 1.2
-aquaculture:perch 0.2
-aquaculture:capitaine 1.2
-aquaculture:fish_fillet_raw 0.4
-aquaculture:red_shrooma 0.2
-aquaculture:turtle_soup 7.2000003
-aquaculture:brown_shrooma 0.2
-aquaculture:pacific_halibut 1.2
-aquaculture:carp 0.4
-aquaculture:gar 0.4
-aquaculture:rainbow_trout 0.4
-aquaculture:pink_salmon 0.4
-aquaculture:pollock 0.4
-aquaculture:catfish 1.2
-aquaculture:arapaima 1.2
-aquaculture:fish_fillet_cooked 3.6000001
-aether:enchanted_berry 9.6
-aether:golden_gummy_swet 36.0
-aether:blue_berry 1.2
-aether:blue_gummy_swet 36.0
-aether:healing_stone 0.0
-aether:gingerbread_man 0.8
-aether:candy_cane 0.8
-aether:white_apple 0.0
-deep_aether:cooked_aerglow_fish 6.0
-deep_aether:enchanted_antidote 0.0
-deep_aether:cooked_quail 7.2000003
-deep_aether:green_squash_slice 0.4
-deep_aether:goldenleaf_berries 0.6
-deep_aether:raw_aerglow_fish 0.4
-deep_aether:purple_squash_slice 0.4
-deep_aether:raw_quail 1.2
-deep_aether:antidote 0.0
-deep_aether:blue_squash_slice 0.4
-farmersdelight_extended:shredded_potatoes 1.6
-farmersdelight_extended:spicy_fried_chicken 7.2000003
-farmersdelight_extended:chocolate_roll 7.2000003
-farmersdelight_extended:fresh_cheese 4.8
-farmersdelight_extended:spicy_chicken_and_fries 19.2
-farmersdelight_extended:fried_cod 7.2000003
-farmersdelight_extended:breakfast_plate 12.0
-farmersdelight_extended:chicken_and_fries 19.2
-farmersdelight_extended:fish_and_chips 19.2
-farmersdelight_extended:cheeseburger 23.4
-farmersdelight_extended:cut_potatoes 1.6
-farmersdelight_extended:fries 7.2000003
-farmersdelight_extended:fried_chicken 7.2000003
-farmersdelight_extended:battered_chicken 1.2
-farmersdelight_extended:hashbrowns 7.2000003
-farmersdelight_extended:toast 3.2
-farmersdelight_extended:beef_wellington 22.4
-farmersdelight_extended:battered_cod 0.8
-farmersdelight_extended:bread_slice 3.2
-farmersdelight_extended:honey_roll 7.2000003
-farmersdelight_extended:chicken_parmesan 22.4
-farmersdelight:tomato 0.6
-farmersdelight:steak_and_potatoes 19.2
-farmersdelight:honey_cookie 0.4
-farmersdelight:kelp_roll 12.0
-farmersdelight:tomato_sauce 3.2
-farmersdelight:cooked_chicken_cuts 3.6000001
-farmersdelight:cod_roll 8.400001
-farmersdelight:apple_pie_slice 1.8000001
-farmersdelight:cooked_salmon_slice 4.8
-farmersdelight:fried_rice 21.0
-farmersdelight:beef_patty 6.4
-farmersdelight:cooked_rice 4.8
-farmersdelight:mixed_salad 7.2000003
-farmersdelight:egg_sandwich 12.8
-farmersdelight:raw_pasta 1.2
-farmersdelight:squid_ink_pasta 21.0
-farmersdelight:pie_crust 0.8
-farmersdelight:chicken_soup 21.0
-farmersdelight:melon_popsicle 1.2
-farmersdelight:onion 1.6
-farmersdelight:glow_berry_custard 8.400001
-farmersdelight:fried_egg 3.2
-farmersdelight:pumpkin_soup 21.0
-farmersdelight:pumpkin_slice 1.8000001
-farmersdelight:nether_salad 4.0
-farmersdelight:ham 3.0
-farmersdelight:mutton_chops 0.6
-farmersdelight:cod_slice 0.2
-farmersdelight:beef_stew 19.2
-farmersdelight:cooked_cod_slice 3.0
-farmersdelight:cabbage_rolls 5.0
-farmersdelight:pasta_with_meatballs 19.2
-farmersdelight:hamburger 17.6
-farmersdelight:mutton_wrap 16.0
-farmersdelight:chicken_cuts 0.6
-farmersdelight:roast_chicken 21.0
-farmersdelight:barbecue_stick 14.4
-farmersdelight:salmon_slice 0.2
-farmersdelight:cabbage 1.6
-farmersdelight:kelp_roll_slice 6.0
-farmersdelight:stuffed_pumpkin 21.0
-farmersdelight:chicken_sandwich 16.0
-farmersdelight:cooked_mutton_chops 4.8
-farmersdelight:cabbage_leaf 0.8
-farmersdelight:dumplings 12.8
-farmersdelight:roasted_mutton_chops 21.0
-farmersdelight:chocolate_pie_slice 1.8000001
-farmersdelight:smoked_ham 16.0
-farmersdelight:mushroom_rice 19.2
-farmersdelight:bone_broth 11.2
-farmersdelight:noodle_soup 21.0
-farmersdelight:bacon_and_eggs 12.0
-farmersdelight:honey_glazed_ham 21.0
-farmersdelight:minced_beef 1.2
-farmersdelight:stuffed_potato 14.0
-farmersdelight:sweet_berry_cheesecake_slice 1.8000001
-farmersdelight:sweet_berry_cookie 0.4
-farmersdelight:salmon_roll 8.400001
-farmersdelight:fish_stew 19.2
-farmersdelight:apple_cider 0.0
-farmersdelight:shepherds_pie 21.0
-farmersdelight:cake_slice 0.4
-farmersdelight:bacon_sandwich 16.0
-farmersdelight:fruit_salad 7.2000003
-farmersdelight:vegetable_soup 19.2
-farmersdelight:dog_food 1.6
-farmersdelight:grilled_salmon 21.0
-farmersdelight:pasta_with_mutton_chop 19.2
-farmersdelight:wheat_dough 1.2
-farmersdelight:cooked_bacon 6.4
-farmersdelight:vegetable_noodles 21.0
-farmersdelight:ratatouille 12.0
-farmersdelight:bacon 1.2
-farmersdelight:baked_cod_stew 21.0
-mynethersdelight:giant_takoyaki 18.0
-mynethersdelight:hot_wings 5.3999996
-mynethersdelight:slices_of_bread 6.0
-mynethersdelight:bleeding_tartar 9.0
-mynethersdelight:plate_of_stuffed_hoglin 9.6
-mynethersdelight:hot_cream_cone 8.0
-mynethersdelight:plate_of_cold_striderloaf 2.2
-mynethersdelight:strider_stew 9.6
-mynethersdelight:hotdog 7.2
-mynethersdelight:cooked_loin 10.5
-mynethersdelight:scotch_eggs 19.2
-mynethersdelight:rock_soup 10.5
-mynethersdelight:plate_of_stuffed_hoglin_snout 25.199999
-mynethersdelight:strider_egg 1.8000001
-mynethersdelight:strider_with_grilled_fungus 18.0
-mynethersdelight:stuffed_pepper 12.8
-mynethersdelight:fried_hoglin_chop 21.599998
-mynethersdelight:enchanted_golden_egg 8.0
-mynethersdelight:twisted_ghasta 13.0
-mynethersdelight:ghast_salad 13.6
-mynethersdelight:plate_of_ghasta_with_cream 14.4
-mynethersdelight:red_loin_on_a_stick 14.0
-mynethersdelight:toasts 8.400001
-mynethersdelight:tear_popsicle 1.2
-mynethersdelight:boiled_egg 5.6
-mynethersdelight:hotdog_with_nether_salad 10.0
-mynethersdelight:ghasta 6.0
-mynethersdelight:crimson_stroganoff 16.5
-mynethersdelight:spicy_hoglin_stew 19.2
-mynethersdelight:burnt_roll 12.0
-mynethersdelight:chilidog 11.0
-mynethersdelight:ghast_dough 6.0
-mynethersdelight:magma_cake_slice 4.0
-mynethersdelight:sausage_and_potatoes 12.1
-mynethersdelight:spicy_cotton 13.5
-mynethersdelight:fries_ghasta 9.6
-mynethersdelight:blue_tenderloin_steak 14.400001
-mynethersdelight:egg_soup 14.0
-mynethersdelight:spicy_curry 19.5
-mynethersdelight:hoglin_sausage 1.0
-mynethersdelight:minced_strider 3.0
-mynethersdelight:bullet_pepper 2.0
-mynethersdelight:golden_egg 8.0
-mynethersdelight:spicy_noodle_soup 20.8
-mynethersdelight:roast_ear 2.0
-mynethersdelight:plate_of_striderloaf 12.5
-mynethersdelight:hot_wings_bucket 16.199999
-mynethersdelight:hot_cream 16.0
-mynethersdelight:hotdog_with_mixed_salad 10.0
-mynethersdelight:dried_ghast_with_milk 5.3999996
-mynethersdelight:roasted_sausage 2.8
-mynethersdelight:breakfast_sampler 22.5
-mynethersdelight:plate_of_stuffed_hoglin_ham 18.0
-mynethersdelight:deviled_egg 7.0
-mynethersdelight:bacon-wrapped_sausage_on_a_stick 12.0
-mynethersdelight:hoglin_loin 2.8
-mynethersdelight:ghast_sourdough 6.0
-mynethersdelight:nether_burger 18.0
-mynethersdelight:spicy_skewer 12.599999
-mynethersdelight:sizzling_pudding 11.7
-mynethersdelight:strider_slice 5.6
-rusticdelight:cooking_oil 1.2
-rusticdelight:calamari_roll 8.400001
-rusticdelight:fruit_beignet 8.400001
-rusticdelight:bell_pepper_slice_yellow 0.2
-rusticdelight:syrup 0.8
-rusticdelight:stuffed_bell_pepper_green 14.0
-rusticdelight:roasted_bell_pepper_slice_yellow 3.6000001
-rusticdelight:sweet_salad 11.2
-rusticdelight:chocolate_coffee 0.0
-rusticdelight:bell_pepper_roll_red 11.2
-rusticdelight:syrup_cheesecake_slice 1.8000001
-rusticdelight:baked_potato_slices 3.6000001
-rusticdelight:stuffed_bell_pepper_red 14.0
-rusticdelight:chocolate_pancake 4.8
-rusticdelight:fried_dough 6.0
-rusticdelight:roasted_bell_pepper_yellow 8.0
-rusticdelight:bell_pepper_roll_green 11.2
-rusticdelight:calamari 0.8
-rusticdelight:fried_calamari 19.2
-rusticdelight:bell_pepper_roll_yellow 11.2
-rusticdelight:bell_pepper_yellow 0.8
-rusticdelight:fried_mushrooms 19.2
-rusticdelight:bell_pepper_green 0.8
-rusticdelight:honey_coffee 1.2
-rusticdelight:syrup_coffee 0.0
-rusticdelight:bell_pepper_slice_red 0.2
-rusticdelight:stuffed_bell_pepper_yellow 14.0
-rusticdelight:coffee_cookie 0.4
-rusticdelight:syrup_cookie 0.4
-rusticdelight:bell_pepper_red 0.8
-rusticdelight:cooked_calamari 6.0
-rusticdelight:roasted_bell_pepper_green 8.0
-rusticdelight:coffee 0.0
-rusticdelight:cherry_blossom_pancake 4.8
-rusticdelight:cooked_calamari_slice 3.6000001
-rusticdelight:pumpkin_pancake 4.8
-rusticdelight:roasted_coffee_beans 0.8
-rusticdelight:bell_pepper_slice_green 0.2
-rusticdelight:bell_pepper_pasta 19.2
-rusticdelight:milk_coffee 0.0
-rusticdelight:potato_salad 11.2
-rusticdelight:spring_rolls 7.2000003
-rusticdelight:pancake 4.8
-rusticdelight:cherry_blossom_roll 6.0
-rusticdelight:vegetable_pancake 4.8
-rusticdelight:cherry_blossom_cheesecake_slice 1.8000001
-rusticdelight:golden_coffee_beans 12.0
-rusticdelight:roasted_bell_pepper_slice_green 3.6000001
-rusticdelight:fried_chicken 19.2
-rusticdelight:fried_dumplings 16.0
-rusticdelight:dark_coffee 0.0
-rusticdelight:roasted_bell_pepper_red 8.0
-rusticdelight:cherry_blossom_cookie 0.4
-rusticdelight:bell_pepper_soup 7.2000003
-rusticdelight:coffee_braised_beef 21.0
-rusticdelight:calamari_slice 0.2
-rusticdelight:roasted_bell_pepper_slice_red 3.6000001
-rusticdelight:potato_slices 0.6
-rusticdelight:syrup_sandwich 11.2
-rusticdelight:batter 0.8
-rusticdelight:honey_pancake 4.8
-culturaldelights:midori_roll 19.6
-culturaldelights:glow_squid 0.8
-culturaldelights:avocado 4.8
-culturaldelights:midori_roll_slice 5.6
-culturaldelights:egg_roll 5.0
-culturaldelights:cut_eggplant 0.2
-culturaldelights:calamari_roll 8.400001
-culturaldelights:eggplant 1.2
-culturaldelights:empanada 7.2000003
-culturaldelights:tropical_roll 8.400001
-culturaldelights:cut_cucumber 0.6
-culturaldelights:corn_dough 0.2
-culturaldelights:eggplant_burger 16.8
-culturaldelights:smoked_white_eggplant 3.0
-culturaldelights:pufferfish_roll 8.400001
-culturaldelights:fish_taco 16.0
-culturaldelights:chicken_roll_slice 9.6
-culturaldelights:smoked_eggplant 9.6
-culturaldelights:cooked_calamari 3.0
-culturaldelights:mutton_sandwich 16.0
-culturaldelights:poached_eggplants 16.0
-culturaldelights:hearty_salad 9.8
-culturaldelights:tortilla 4.8
-culturaldelights:popcorn 0.4
-culturaldelights:smoked_cut_eggplant 3.2
-culturaldelights:squid 0.8
-culturaldelights:beef_burrito 19.6
-culturaldelights:raw_calamari 0.4
-culturaldelights:spicy_curry 31.199999
-culturaldelights:cucumber 2.0
-culturaldelights:pork_wrap 16.0
-culturaldelights:smoked_tomato 4.8
-culturaldelights:creamed_corn 9.6
-culturaldelights:rice_ball 3.0
-culturaldelights:cooked_squid 9.6
-culturaldelights:eggplant_parmesan 21.599998
-culturaldelights:elote 9.8
-culturaldelights:cut_avocado 1.2
-culturaldelights:corn_cob 1.6
-culturaldelights:chicken_roll 25.6
-culturaldelights:tortilla_chips 1.2
-culturaldelights:pickle 5.6
-culturaldelights:cut_pickle 2.0
-culturaldelights:white_eggplant 0.2
-culturaldelights:avocado_toast 4.0
-culturaldelights:chicken_taco 16.0
-fruitsdelight:persimmon_jam 2.4
-fruitsdelight:orange_jello 0.6
-fruitsdelight:durian_flesh 2.4
-fruitsdelight:hawberry_jello 0.6
-fruitsdelight:cranberry_jam 2.4
-fruitsdelight:chorus_jam 2.4
-fruitsdelight:fig_tart 4.0
-fruitsdelight:orange_juice 0.4
-fruitsdelight:mango_jello 0.6
-fruitsdelight:persimmon_jello 0.6
-fruitsdelight:bellini_cocktail 0.4
-fruitsdelight:baked_pear 2.4
-fruitsdelight:blueberry_jello 0.6
-fruitsdelight:peach_jello 0.6
-fruitsdelight:fig 1.8000001
-fruitsdelight:lemon 2.4
-fruitsdelight:pear 1.8000001
-fruitsdelight:cranberry_jello 0.6
-fruitsdelight:pear_with_rock_sugar 9.6
-fruitsdelight:cranberry_cookie 0.6
-fruitsdelight:kiwi_jello 0.6
-fruitsdelight:pear_juice 0.4
-fruitsdelight:lychee_cherry_tea 0.4
-fruitsdelight:hamimelon_juice 0.4
-fruitsdelight:mango 1.8000001
-fruitsdelight:hawberry_tea 0.4
-fruitsdelight:lychee_jello 0.6
-fruitsdelight:fig_jello 0.6
-fruitsdelight:fig_chicken_stew 19.2
-fruitsdelight:hamimelon_shaved_ice 0.4
-fruitsdelight:pineapple_pie 4.0
-fruitsdelight:glowberry_jam 2.4
-fruitsdelight:peach_jam 2.4
-fruitsdelight:lemon_tart 4.0
-fruitsdelight:mangosteen_jello 0.6
-fruitsdelight:kiwi_popsicle 3.2
-fruitsdelight:peach 1.8000001
-fruitsdelight:pear_jam 2.4
-fruitsdelight:lemon_cookie 0.6
-fruitsdelight:hamimelon_jello 0.6
-fruitsdelight:lemon_juice 0.4
-fruitsdelight:hamimelon_popsicle 3.2
-fruitsdelight:hawberry_roll 2.4
-fruitsdelight:lychee_jam 2.4
-fruitsdelight:fig_pudding_slice 2.4
-fruitsdelight:durian_jam 2.4
-fruitsdelight:persimmon 1.8000001
-fruitsdelight:durian_jello 0.6
-fruitsdelight:orange_marinated_pork 19.2
-fruitsdelight:baked_durian 2.4
-fruitsdelight:cranberry_muffin 4.0
-fruitsdelight:durian_pie 4.0
-fruitsdelight:pineapple_jam 2.4
-fruitsdelight:mango_tea 0.4
-fruitsdelight:mango_jam 2.4
-fruitsdelight:lychee_chicken 19.2
-fruitsdelight:chorus_jello 0.6
-fruitsdelight:mangosteen_tea 0.4
-fruitsdelight:lychee 1.2
-fruitsdelight:hamimelon_slice 1.2
-fruitsdelight:lemon_jello 0.6
-fruitsdelight:kiwi_jam 2.4
-fruitsdelight:hawberry_jam 2.4
-fruitsdelight:fig_jam 2.4
-fruitsdelight:pineapple_slice 1.2
-fruitsdelight:bowl_of_pineapple_fried_rice 22.4
-fruitsdelight:peach_tea 0.4
-fruitsdelight:hamimelon_jam 2.4
-fruitsdelight:melon_jam 2.4
-fruitsdelight:lemon_slice 1.2
-fruitsdelight:sweetberry_jello 0.6
-fruitsdelight:mango_salad 9.6
-fruitsdelight:pear_jello 0.6
-fruitsdelight:kiwi 1.8000001
-fruitsdelight:mangosteen_cake 10.8
-fruitsdelight:lemon_jam 2.4
-fruitsdelight:orange_chicken 19.2
-fruitsdelight:mango_milkshake 0.4
-fruitsdelight:bayberry_cookie 0.6
-fruitsdelight:glowberry_jello 0.6
-fruitsdelight:kiwi_juice 0.4
-fruitsdelight:orange 1.8000001
-fruitsdelight:cranberry 1.2
-fruitsdelight:blueberry_custard 6.0
-fruitsdelight:bayberry_soup 0.4
-fruitsdelight:orange_jam 2.4
-fruitsdelight:hawberry_stick 3.2
-fruitsdelight:dried_persimmon 2.4
-fruitsdelight:pineapple_jello 0.6
-fruitsdelight:mangosteen 1.8000001
-fruitsdelight:apple_jam 2.4
-fruitsdelight:jam_bread 8.0
-fruitsdelight:blueberry_jam 2.4
-fruitsdelight:hawberry 1.2
-fruitsdelight:pineapple_marinated_pork 19.2
-fruitsdelight:blueberry_muffin 4.0
-fruitsdelight:mangosteen_jam 2.4
-fruitsdelight:orange_slice 1.2
-fruitsdelight:persimmon_cookie 0.6
-fruitsdelight:bayberry_jello 0.6
-fruitsdelight:sweetberry_jam 2.4
-fruitsdelight:blueberry 1.2
-fruitsdelight:melon_jello 0.6
-fruitsdelight:bayberry_jam 2.4
-fruitsdelight:bayberry 1.2
-fruitsdelight:apple_jello 0.6
-fruitsdelight:hawberry_sheet 1.8000001
-ars_nouveau:mendosteen_pod 4.8
-ars_nouveau:source_berry_roll 9.6
-ars_nouveau:frostaya_pod 4.8
-ars_nouveau:bastion_pod 4.8
-ars_nouveau:source_berry_pie 16.199999
-ars_nouveau:bombegranate_pod 4.8
-ars_nouveau:sourceberry_bush 0.4
-arsdelight:unstable_cocktail 0.0
-arsdelight:source_berry_jelly 4.8
-arsdelight:source_berry_jam 0.0
-arsdelight:mendosteen_tea 0.0
-arsdelight:bombegrante_steak 25.6
-arsdelight:bombegrante_hornbeer 0.0
-arsdelight:frostaya_pie_slice 1.8000001
-arsdelight:wilden_meat_slice 2.4
-arsdelight:grilled_wilden_meat_slice 7.0
-arsdelight:wilden_skewer 3.2
-arsdelight:arch_sauce 3.2
-arsdelight:frostaya_tea 0.0
-arsdelight:source_berry_cookie 3.2
-arsdelight:mendosteen_jelly 4.8
-arsdelight:frostaya_hornbeer 0.0
-arsdelight:bowl_of_honey_glazed_chimera 28.800001
-arsdelight:bastion_pie_slice 1.8000001
-arsdelight:mendosteen_chicken 16.0
-arsdelight:bombegrante_pie_slice 1.8000001
-arsdelight:horn_roll 19.2
-arsdelight:frostaya_mutton 25.6
-arsdelight:source_berry_tea 0.0
-arsdelight:bastion_pork 22.4
-arsdelight:bombegrante_tea 0.0
-arsdelight:grilled_chimera_meat 25.199999
-arsdelight:grilled_wilden_skewer 11.2
-arsdelight:source_berry_cupcake 9.6
-arsdelight:bastion_jelly 4.8
-arsdelight:grilled_chimera_skewer 16.8
-arsdelight:bowl_of_wilden_salad 19.2
-arsdelight:mendosteen_pie_slice 1.8000001
-arsdelight:wilden_sauce 9.6
-arsdelight:source_berry_hornbeer 0.0
-arsdelight:bastion_tea 0.0
-arsdelight:mendosteen_hornbeer 0.0
-arsdelight:wilden_stew 19.2
-arsdelight:source_berry_pie_slice 4.8
-arsdelight:chimera_skewer 5.6
-arsdelight:frostaya_jelly 4.8
-arsdelight:neutralized_bombegrante_jam 0.0
-arsdelight:bastion_hornbeer 0.0
-arsdelight:activated_mendosteen_jam 0.0
-arsdelight:grilled_wilden_meat 14.0
-arsdelight:neutralized_frostaya_jam 0.0
-arsdelight:chimera_meat 9.6
-arsdelight:grilled_chimera_meat_slice 12.599999
-arsdelight:activated_bastion_jam 0.0
-arsdelight:chimera_meat_slice 4.8
-arsdelight:arch_soup 3.2
-arsdelight:wilden_meat 4.8
-arsdelight:bombegrante_jelly 4.8
-camping:roasted_marshmallow 3.6000001
-camping:marshmallow 0.4
-trailandtales_delight:golden_lantern_fruit 12.0
-trailandtales_delight:ancient_coffee 0.0
-trailandtales_delight:cherry_cheese_slice 6.0
-trailandtales_delight:pitcher_plant_tea 0.0
-trailandtales_delight:cheese_slice 5.0
-trailandtales_delight:cherry_cake_slice 8.0
-trailandtales_delight:cooked_pitcher_taro 14.0
-trailandtales_delight:cherry_cheese_pie_slice 3.0
-trailandtales_delight:torchflower_tea 0.0
-trailandtales_delight:fried_sniffer_egg 7.2000003
-trailandtales_delight:pitcher_taro 4.5
-trailandtales_delight:cherry_petal_tea 0.0
-trailandtales_delight:lantern_fruit 2.0
-trailandtales_delight:baked_pitcher_pod 1.0
-trailandtales_delight:stuffed_sniffer_egg 32.0
-trailandtales_delight:baked_torchflower_seeds 1.0
-vinery:jo_special_mixture 0.0
-vinery:white_grape 0.4
-vinery:lilitu_wine 0.0
-vinery:creepers_crush 0.0
-vinery:savanna_grapes_red 0.4
-vinery:bolvar_wine 0.0
-vinery:clark_wine 0.0
-vinery:cherry 0.4
-vinery:jungle_grapes_white 6.0
-vinery:strad_wine 0.0
-vinery:stal_wine 0.0
-vinery:apple_wine 0.0
-vinery:savanna_grapes_white 0.4
-vinery:noir_wine 0.0
-vinery:cherry_wine 0.0
-vinery:taiga_grapes_red 0.4
-vinery:taiga_grapes_white 0.4
-vinery:bottle_mojang_noir 0.0
-vinery:kelp_cider 0.0
-vinery:solaris_wine 0.0
-vinery:rotten_cherry 1.2
-vinery:chorus_wine 0.0
-vinery:glowing_wine 0.0
-vinery:villagers_fright 0.0
-vinery:chenet_wine 0.0
-vinery:magnetic_wine 0.0
-vinery:mead 0.0
-vinery:cristel_wine 0.0
-vinery:jungle_grapes_red 6.0
-vinery:red_wine 0.0
-vinery:eiswein 0.0
-vinery:mellohi_wine 0.0
-vinery:apple_mash 2.4
-vinery:red_grape 0.4
-vinery:jellie_wine 0.0
-vinery:apple_cider 0.0
-vinery:aegis_wine 0.0
-beachparty:coconut_open 3.6000001
-beachparty:cooked_mussel_meat 6.0
-beachparty:raw_mussel_meat 0.6
-beachparty:sweetberries_cocktail 2.0
-beachparty:coconut_cocktail 2.0
-beachparty:cocoa_cocktail 2.0
-beachparty:honey_cocktail 2.0
-beachparty:pumpkin_cocktail 2.0
-beachparty:melon_cocktail 2.0
-veggiesdelight:zucchini_slice 0.4
-veggiesdelight:turnip_mutton_skewer 9.8
-veggiesdelight:baked_sweet_potato 4.0
-veggiesdelight:potato_noodles 19.2
-veggiesdelight:carrot_juice 0.0
-veggiesdelight:sweet_potato_dough 1.2
-veggiesdelight:smoked_bellpepper 3.2
-veggiesdelight:cauliflower 3.2
-veggiesdelight:stuffed_bellpepper 10.4
-veggiesdelight:sweet_potato_cupcake 6.0
-veggiesdelight:dandelion_juice 0.0
-veggiesdelight:turnip_water 0.0
-veggiesdelight:roasted_garlic_clove 0.8
-veggiesdelight:roasted_vegetables 19.2
-veggiesdelight:cauliflower_bread 7.2000003
-veggiesdelight:mhadjeb 19.2
-veggiesdelight:potato_noodle 1.6
-veggiesdelight:coleslaw 9.6
-veggiesdelight:turnip_beef_stew 21.0
-veggiesdelight:broccoli_salad 7.2000003
-veggiesdelight:shakshouka 19.2
-veggiesdelight:sweet_potato_pancakes 19.2
-veggiesdelight:vegan_pizza_slice 5.0
-veggiesdelight:broccoli_soup 14.0
-veggiesdelight:roasted_cauliflower_floret 1.2
-veggiesdelight:vegetables_wrap 19.2
-veggiesdelight:stuffed_zucchinis 21.0
-veggiesdelight:cooked_vegetarian_patty 9.6
-veggiesdelight:turnip 1.6
-veggiesdelight:dandelion_leaf 0.2
-veggiesdelight:fish_and_chips 12.0
-veggiesdelight:chicken_fajitas_wrap 14.0
-veggiesdelight:stuffed_zucchini_boat 14.0
-veggiesdelight:zucchini_quiche_slice 6.0
-veggiesdelight:garlic_clove 0.2
-veggiesdelight:zucchini_sandwich 14.0
-veggiesdelight:garlic_rice_with_cauliflower 21.0
-veggiesdelight:turnip_cake 21.0
-veggiesdelight:carrot_cake_slice 1.2
-veggiesdelight:sweet_potato 1.6
-veggiesdelight:vegetarian_burger 19.2
-veggiesdelight:rice_and_vegetables 21.0
-veggiesdelight:steak_and_broccoli 19.2
-veggiesdelight:pasta_with_broccoli 19.2
-veggiesdelight:uncooked_mhadjeb 4.8
-veggiesdelight:zucchini 2.4
-veggiesdelight:fermented_garlic_honey 9.8
-veggiesdelight:cauliflower_soup 14.0
-veggiesdelight:cauliflower_floret 0.2
-veggiesdelight:garlic_bread 4.0
-veggiesdelight:roasted_zucchini 3.2
-veggiesdelight:garlic_stuffed_mushrooms 8.400001
-veggiesdelight:cacciatore 21.0
-veggiesdelight:cauliflower_kuku 19.2
-veggiesdelight:mashed_potatoes 14.0
-veggiesdelight:bellpepper 0.8
-veggiesdelight:beetroot_brownie 6.0
-veggiesdelight:lasagna_slice 21.0
-veggiesdelight:cesar_salad 14.0
-veggiesdelight:raw_vegetarian_patty 1.8000001
-veggiesdelight:garlic_baked_cod 12.0
-veggiesdelight:sweet_potato_pie_slice 3.0
-veggiesdelight:garlic_chicken_stew 19.2
-veggiesdelight:dandelion_and_eggs 12.0
-veggiesdelight:turnip_salad 7.2000003
-veggiesdelight:broccoli 1.6
-create:builders_tea 1.2
-create:bar_of_chocolate 3.6000001
-create:sweet_roll 9.6
-create:honeyed_apple 12.8
-create:chocolate_glazed_berries 11.2
-dndesires:vanilla_milkshake 28.800001
-dndesires:chocolate_milkshake 28.800001
-dndesires:strawberry_milkshake 28.800001
-dndesires:pumpkin_milkshake 28.800001
-dndesires:glowberry_milkshake 28.800001
-artifacts:everlasting_beef 1.8000001
-artifacts:onion_ring 0.0
-artifacts:eternal_steak 12.8
-atmospheric:passion_fruit 0.2
-atmospheric:blood_orange 2.4
-atmospheric:orange_pudding 4.8
-atmospheric:shimmering_passion_fruit 0.6
-atmospheric:aloe_leaves 1.2
-atmospheric:aloe_gel_bottle 3.6000001
-atmospheric:orange 2.4
-atmospheric:passion_fruit_sorbet 18.0
-atmospheric:yucca_fruit 0.6
-atmospheric:candied_orange_slices 3.6000001
-atmospheric:passion_fruit_tart 4.8
-atmospheric:roasted_yucca_fruit 3.6000001
-atmospheric:orange_sorbet 18.0
-atmospheric:currant 0.4
-atmospheric:ender_dragon_fruit 48.0
-atmospheric:currant_muffin 2.4
-atmospheric:golden_dragon_fruit 1.6
-atmospheric:dragon_fruit 2.4
-expandeddelight:snickerdoodle 1.6
-expandeddelight:chili_pepper 0.4
-expandeddelight:sweet_berry_jelly_sandwich 6.0
-expandeddelight:asparagus_soup 16.0
-expandeddelight:sweet_berry_juice 2.4
-expandeddelight:peanut 0.0
-expandeddelight:peperonata 21.599998
-expandeddelight:asparagus 0.8
-expandeddelight:cranberry_juice 2.4
-expandeddelight:glow_berry_jelly 3.6000001
-expandeddelight:glow_berry_jelly_sandwich 6.0
-expandeddelight:cranberry_chicken 16.0
-expandeddelight:chocolate_cookie 1.2
-expandeddelight:asparagus_soup_creamy 19.8
-expandeddelight:peanut_honey_soup 16.0
-expandeddelight:sweet_potato_salad 4.8
-expandeddelight:goat_cheese_slice 0.8
-expandeddelight:peanut_butter_sandwich 3.2
-expandeddelight:grilled_cheese 5.0
-expandeddelight:baked_sweet_potato 1.6
-expandeddelight:cinnamon_apples 7.0
-expandeddelight:sugar_cookie 0.6
-expandeddelight:cranberries 2.0
-expandeddelight:glow_berry_juice 2.4
-expandeddelight:cranberry_goat_cheese_toast 4.8
-expandeddelight:cheese_sandwich 1.8000001
-expandeddelight:sweet_potato 0.8
-expandeddelight:honeyed_goat_cheese_tart_slice 4.0
-expandeddelight:cheese_slice 0.8
-expandeddelight:peanut_butter_honey_sandwich 5.0
-expandeddelight:apple_juice 2.4
-expandeddelight:peanut_salad 7.2000003
-expandeddelight:sweet_berry_jelly 3.6000001
-expandeddelight:sweet_potato_casserole 17.6
-expandeddelight:asparagus_and_bacon_cheesy 16.0
-expandeddelight:glow_berry_sweet_roll 5.0
-expandeddelight:mac_and_cheese 19.2
-expandeddelight:asparagus_mushroom_pasta 21.599998
-expandeddelight:cranberry_cobbler_slice 1.8000001
-expandeddelight:berry_sweet_roll 5.0
-expandeddelight:cinnamon_rice 7.0
-expandeddelight:sweet_roll 2.4
-expandeddelight:cranberry_jelly 3.6000001
-expandeddelight:peanut_butter 1.2
-moredelight:bread_slice 1.6
-moredelight:steak_sandwich 16.0
-moredelight:chicken_salad 7.2000003
-moredelight:carrot_soup 19.2
-moredelight:simple_hamburger 12.8
-moredelight:cooked_rice_with_chicken_cuts 22.4
-moredelight:cooked_rice_with_porkchop 22.4
-moredelight:diced_potatoes 1.6
-moredelight:toast_with_blueberries 6.0
-moredelight:tomato_sandwich 11.2
-moredelight:toast 2.4
-moredelight:diced_potatoes_with_chicken_cuts 16.0
-moredelight:toast_with_egg 6.0
-moredelight:cooked_rice_with_beef 22.4
-moredelight:toast_with_glow_berries 6.0
-moredelight:diced_potatoes_with_beef 16.0
-moredelight:porkchop_sandwich 16.0
-moredelight:chicken_sandwich_with_egg_and_tomato 17.6
-moredelight:creamy_pasta_with_chicken_cuts 19.2
-moredelight:diced_potatoes_with_egg_and_tomato 16.0
-moredelight:creamy_pasta_with_ham 19.2
-moredelight:diced_potatoes_with_porkchop 16.0
-moredelight:toast_with_chocolate 6.0
-moredelight:omelette 7.2000003
-moredelight:hamburger_with_cheese 14.400001
-moredelight:potato_salad 7.2000003
-moredelight:toast_with_cheese 6.0
-moredelight:hamburger_with_egg 14.400001
-moredelight:toast_with_sweet_berries 6.0
-moredelight:loaded_hamburger 20.800001
-moredelight:mashed_potatoes 19.2
-moredelight:egg_with_bacon_sandwich 17.6
-moredelight:chocolate_popsicle 1.2
-moredelight:toast_with_honey 6.0
-moredelight:toast_with_peanut_butter 6.0
-ars_elemental:flashpine_pod 4.8
-wildernature:bison_meat 1.8000001
-wildernature:cassowary_meat 1.8000001
-wildernature:turkey_meat 1.2
-wildernature:hazelnut 2.4
-wildernature:cooked_bison_meat 12.8
-wildernature:cooked_turkey_meat 7.2000003
-wildernature:pelican_meat 0.4
-wildernature:cooked_venison 9.6
-wildernature:cooked_pelican_meat 9.6
-wildernature:cooked_cassowary_meat 6.0
-wildernature:venison 1.2
-extradelight:roasted_peanuts 1.2
-extradelight:unripe_salami_item 0.0
-extradelight:dark_chocolate_dipped_glow_berry 0.4
-extradelight:onion_bhaji 2.4
-extradelight:white_chocolate_chips 0.0
-extradelight:dark_chocolate_chips 0.0
-extradelight:candy_lime 0.0
-extradelight:raw_gingerbread_steve 0.2
-extradelight:gingerbread_alex 0.4
-extradelight:miso_paste_item 4.0
-extradelight:stuffed_mushrooms 6.0
-extradelight:garlic_clove 0.6
-extradelight:mulligatawny_soup 15.4
-extradelight:beet_mint_salad 4.8
-extradelight:melon_layer_cake_slice 0.4
-extradelight:green_coffee 0.4
-extradelight:boiled_egg 3.2
-extradelight:cheeseburger_pickle 8.0
-extradelight:fat_potatoes 8.400001
-extradelight:blood_chocolate_dipped_graham_cracker 1.6
-extradelight:chicken_stew 9.8
-extradelight:sugar_cookie_pickaxe 0.4
-extradelight:candy_orange 0.0
-extradelight:panforte_slice 3.0
-extradelight:fish_soup 11.2
-extradelight:ginger 0.6
-extradelight:lemon_curd 4.8
-extradelight:raw_gingerbread_sword 0.2
-extradelight:onion_soup 9.8
-extradelight:chocolate_orange 0.8
-extradelight:cream_corn 7.2000003
-extradelight:coffee_beans 0.6
-extradelight:dark_chocolate_bar 0.8
-extradelight:baked_alaska_serving 3.6000001
-extradelight:pork_tenderloin 12.0
-extradelight:caramel_popsicle 1.2
-extradelight:candy_brown 0.0
-extradelight:gherkin_item 3.6000001
-extradelight:garlic_bread 4.8
-extradelight:candy_light_gray 0.0
-extradelight:peeled_ginger 0.6
-extradelight:kimchi_item 4.8
-extradelight:fried_mushrooms 6.0
-extradelight:sweet_berry_cookie_dough 0.2
-extradelight:coffee_cherries 0.4
-extradelight:sos 19.2
-extradelight:macaroni_cheese 4.8
-extradelight:pamonha 3.6000001
-extradelight:white_chocolate_dipped_apple_slice 2.4
-extradelight:bbq_jar_item 0.8
-extradelight:beef_stew_rice 28.800001
-extradelight:french_fries 7.2000003
-extradelight:meatloaf 8.0
-extradelight:congee 4.8
-extradelight:honey_ice_cream 7.2000003
-extradelight:caramel_sauce 4.8
-extradelight:jelly_black 0.6
-extradelight:salad 3.6000001
-extradelight:potato_sticks 0.6
-extradelight:yeast_spread 1.2
-extradelight:butter 2.4
-extradelight:peanut_butter_cup 0.0
-extradelight:sweet_berry_pie_slice 1.8000001
-extradelight:fish_cakes 10.8
-extradelight:ketchup_jar_item 0.0
-extradelight:milk_chocolate_syrup_bottle 0.8
-extradelight:potato_au_gratin 4.8
-extradelight:pickled_rind_item 0.0
-extradelight:frosting_magenta 0.0
-extradelight:mint_chip_ice_cream 7.2000003
-extradelight:riceball_filled 8.8
-extradelight:dark_chocolate_dipped_coffee_bean 0.4
-extradelight:cucumber 1.2
-extradelight:croque_monsieur 14.400001
-extradelight:scrambled_eggs 3.2
-extradelight:pumpkin_pie_slice 1.8000001
-extradelight:white_chocolate_dipped_bacon 1.2
-extradelight:grated_ginger 0.6
-extradelight:frosting_brown 0.0
-extradelight:blood_chocolate_syrup_bottle 0.8
-extradelight:cooked_pasta 6.0
-extradelight:dried_fruit 2.4
-extradelight:hashbrowns 7.2000003
-extradelight:edamame 1.0
-extradelight:glazed_carrot 3.6000001
-extradelight:glow_berry_popsicle 1.2
-extradelight:egg_salad 2.4
-extradelight:caramel_popcorn 7.2000003
-extradelight:lasanga 14.400001
-extradelight:chicken_parm 12.0
-extradelight:raw_sugar_cookie_pickaxe 0.2
-extradelight:egg_in_the_basket 6.0
-extradelight:chicken_alfredo 24.0
-extradelight:zupa_ogorkowa 8.4
-extradelight:white_chocolate_dipped_marshmallow 0.8
-extradelight:honey_cookie_dough 0.2
-extradelight:dirt_cake 12.0
-extradelight:jalapeno_stuffed_potato 18.199999
-extradelight:sugar_cookie_villager 0.4
-extradelight:candy_apple 2.4
-extradelight:jaffa_cake 3.6000001
-extradelight:candy_blue 0.0
-extradelight:cinnamon_popsicle 1.2
-extradelight:easter_egg 0.8
-extradelight:raw_sugar_cookie_alex 0.2
-extradelight:french_toast 2.4
-extradelight:blood_chocolate_truffle 0.0
-extradelight:lamb_stew 11.2
-extradelight:tomato_soup 9.8
-extradelight:chocolate_ice_cream 7.2000003
-extradelight:white_chocolate_dipped_sweet_berry 0.4
-extradelight:milk_tart_slice 2.4
-extradelight:borscht 7.0
-extradelight:candy_magenta 0.0
-extradelight:bacon_egg_sandwich 19.2
-extradelight:stuffing 7.0
-extradelight:apple_slaw 8.400001
-extradelight:mallow_cup 0.0
-extradelight:caramel_chicken 5.6
-extradelight:peppermint_bark 0.4
-extradelight:sliced_apple 2.4
-extradelight:aglio_e_olio 13.200001
-extradelight:lemon 0.8
-extradelight:alfredo_sauce 9.6
-extradelight:corn_fritters 12.0
-extradelight:sliced_orange 1.2
-extradelight:candy_black 0.0
-extradelight:pasta_tomato 8.0
-extradelight:peanut_brittle 1.2
-extradelight:egg_salad_sandwich 12.8
-extradelight:chocolate_mousse 3.2
-extradelight:oxtail_soup 19.2
-extradelight:potato_chips 7.2000003
-extradelight:liver_onions 12.8
-extradelight:cinnamon_toast 6.0
-extradelight:lemon_delicious 13.200001
-extradelight:milk_chocolate_dipped_graham_cracker 1.6
-extradelight:ice_cream_sundae 9.6
-extradelight:blood_chocolate_dipped_glow_berry 0.4
-extradelight:jalapeno_popper 7.2000003
-extradelight:stuffed_apple_ice_cream 14.400001
-extradelight:candy_cane_red 0.0
-extradelight:lamb_stew_rice 20.800001
-extradelight:pasta_alfredo 16.800001
-extradelight:jelly_pink 0.6
-extradelight:blood_chocolate_filled_bar 1.2
-extradelight:potato_soup 9.8
-extradelight:salisbury_steak 6.4
-extradelight:jelly_green 0.6
-extradelight:nut_butter_cookie_dough 0.2
-extradelight:jelly_purple 0.6
-extradelight:honey_cheesecake_slice 1.8000001
-extradelight:sliced_grapefruit 1.8000001
-extradelight:hot_sauce_item 1.2
-extradelight:dark_chocolate_syrup_bottle 0.8
-extradelight:sauerkraut_and_sausage 14.400001
-extradelight:cooked_wheat_seeds 1.2
-extradelight:glow_berry_cookie 0.4
-extradelight:sliced_onion 0.0
-extradelight:grated_potato 0.6
-extradelight:grapefruit 1.8000001
-extradelight:whipped_cream 0.0
-extradelight:smore 5.6
-extradelight:meat_pie_slice 6.4
-extradelight:fruit_bread 10.8
-extradelight:mushroom_risotto 16.8
-extradelight:raw_sugar_cookie_creeper 0.2
-extradelight:raw_gingerbread_pickaxe 0.2
-extradelight:jelly_brown 0.6
-extradelight:garlic 0.6
-extradelight:candy_pink 0.0
-extradelight:candied_citrus_zest 0.4
-extradelight:chicken_kiev 9.6
-extradelight:caramel_cheescake_slice 1.8000001
-extradelight:gummies 0.6
-extradelight:apple_crisp 7.2000003
-extradelight:sugar_cookie_emerald 0.4
-extradelight:pumpkin_cookie 0.4
-extradelight:baked_cod_serving 3.6000001
-extradelight:potato_salad 2.4
-extradelight:candy_red 0.0
-extradelight:caramel_custard 8.400001
-extradelight:fried_brains 17.6
-extradelight:cactus_soup 15.4
-extradelight:gingerbread_diamond 0.4
-extradelight:muffin_cinnamon 1.2
-extradelight:sliced_gherkin_item 3.6000001
-extradelight:cheesecake_slice 1.8000001
-extradelight:jelly_white 0.6
-extradelight:white_chocolate_truffle 0.0
-extradelight:blood_chocolate_dipped_bacon 1.2
-extradelight:roasted_carrot 8.400001
-extradelight:jelly_lime 0.6
-extradelight:glow_berry_ice_cream 7.2000003
-extradelight:sweet_berry_popsicle 1.2
-extradelight:hash 4.8
-extradelight:pork_stew 11.2
-extradelight:muffin_sweet_berry 1.2
-extradelight:pickled_carrot_item 8.400001
-extradelight:chili 3.6000001
-extradelight:stuffed_heart 25.6
-extradelight:marshmallow_slice 0.8
-extradelight:melon_lime_glazed_chicken 6.6000004
-extradelight:gingerbread_pickaxe 0.4
-extradelight:butterscotch 1.2
-extradelight:meringue 0.0
-extradelight:kongjang 3.0
-extradelight:dark_chocolate_dipped_marshmallow 0.8
-extradelight:peanut_butter_bottle 0.6
-extradelight:grasshopper_pie_slice 0.8
-extradelight:cooked_soybeans_item 1.0
-extradelight:fish_salad_sandwich 20.400002
-extradelight:soy_glazed_salmon_item 3.2
-extradelight:apple_ice_cream 7.2000003
-extradelight:pumpkin_ice_cream 7.2000003
-extradelight:steak_pickled_onion_pie_slice 6.4
-extradelight:grated_garlic 0.6
-extradelight:chocolate_cheesecake_slice 1.8000001
-extradelight:candy_cane_blue 0.0
-extradelight:sliced_lemon 0.8
-extradelight:melon_rind_stirfry 16.800001
-extradelight:raw_sugar_cookie_villager 0.2
-extradelight:fish_chips 21.6
-extradelight:pork_tenderloin_sandwich 18.0
-extradelight:orange 1.2
-extradelight:frosting_black 0.0
-extradelight:candy_green 0.0
-extradelight:sliced_beetroot_item 1.2
-extradelight:aebleflaesk 6.4
-extradelight:pork_and_apples 7.2000003
-extradelight:miso_soup 11.2
-extradelight:penne_all_arrabbiata 9.6
-extradelight:pulled_pork_sandwich 24.0
-extradelight:fish_sauce_item 0.4
-extradelight:milk_chocolate_filled_bar 1.2
-extradelight:kimchi_fried_rice 10.8
-extradelight:rabbit_stew_rice 19.2
-extradelight:fudge 2.4
-extradelight:white_chocolate_filled_bar 1.2
-extradelight:frosting_lime 0.0
-extradelight:chocolate_custard 8.400001
-extradelight:nougat 2.4
-extradelight:apple_cookie 0.4
-extradelight:grilled_corn_on_cob 3.6000001
-extradelight:sugar_cookie_alex 0.4
-extradelight:milk_chocolate_chips 0.0
-extradelight:salami_item 2.4
-extradelight:devilled_sausages 16.0
-extradelight:jelly_light_grey 0.6
-extradelight:blood_chocolate_bar 0.8
-extradelight:black_forest_trifle 0.8
-extradelight:sliced_cucumber_item 1.2
-extradelight:brownie 3.6000001
-extradelight:fried_chicken 15.6
-extradelight:eton_mess 9.6
-extradelight:sunflower_seeds 0.2
-extradelight:dynamic_toast 3.6000001
-extradelight:lime 0.4
-extradelight:gingerbread_steve 0.4
-extradelight:candy_purple 0.0
-extradelight:grapefruit_sorbet 1.8000001
-extradelight:ice_cubes 0.0
-extradelight:dynamic_jam 0.2
-extradelight:stuffed_apple 4.8
-extradelight:blood_chocolate_dipped_apple_slice 2.4
-extradelight:apple_cheesecake_slice 1.8000001
-extradelight:pavlova_slice 2.4
-extradelight:jelly_magenta 0.6
-extradelight:milk_chocolate_dipped_coffee_bean 0.4
-extradelight:pickled_egg_item 3.2
-extradelight:soy_sauce_item 4.2000003
-extradelight:chocolate_chip_cookie_dough 0.2
-extradelight:peanuts 0.4
-extradelight:white_chocolate_bar 0.8
-extradelight:honey_custard 8.400001
-extradelight:croutons 1.2
-extradelight:fudge_popsicle 1.2
-extradelight:beef_wellington 11.2
-extradelight:grilled_cheese 14.400001
-extradelight:white_chocolate_dipped_graham_cracker 1.6
-extradelight:gingerbread_creeper 0.4
-extradelight:jelly_grey 0.6
-extradelight:sliced_chili 3.6000001
-extradelight:glow_berry_cookie_dough 0.2
-extradelight:gingerbread_emerald 0.4
-extradelight:pickled_ginger 0.2
-extradelight:sugar_cookie_sword 0.4
-extradelight:shredded_cabbage_item 1.6
-extradelight:crisp_rice_cereal 6.4
-extradelight:peanut_butter_jelly 9.6
-extradelight:bruschetta 2.4
-extradelight:naem_moo_item 11.2
-extradelight:caramel_golden_apple 19.2
-extradelight:apple_fritters 8.0
-extradelight:apple_cookie_dough 0.2
-extradelight:chocolate_cookie 0.4
-extradelight:caramel_apple 9.6
-extradelight:natto_and_rice 8.8
-extradelight:raw_sugar_cookie_emerald 0.2
-extradelight:sugar_cookie_dough 0.2
-extradelight:bad_food 0.4
-extradelight:jelly_cyan 0.6
-extradelight:hotdish 16.0
-extradelight:dark_chocolate_dipped_bacon 1.2
-extradelight:dark_chocolate_filled_bar 1.2
-extradelight:curry 9.8
-extradelight:frosting_purple 0.0
-extradelight:candy_yellow 0.0
-extradelight:frosting_light_gray 0.0
-extradelight:muffin_ginger 1.2
-extradelight:frosting_light_blue 0.0
-extradelight:cheeseburger 24.0
-extradelight:lemon_posset 0.8
-extradelight:blood_chocolate_dipped_sweet_berry 0.4
-extradelight:sweet_berry_ice_cream 7.2000003
-extradelight:chili_cheese_cornbread_muffin 3.6000001
-extradelight:charcuterie_board 6.4
-extradelight:frosting_blue 0.0
-extradelight:pickled_beet_item 6.0
-extradelight:meatloaf_sandwich 16.0
-extradelight:apple_chips 0.6
-extradelight:lemon_cucumber_cake_slice 0.4
-extradelight:coffee_cake_slice 0.4
-extradelight:christmas_pudding 2.4
-extradelight:popcorn 2.4
-extradelight:gazpacho 9.6
-extradelight:cookie_dough_ice_cream 7.2000003
-extradelight:raw_gingerbread_emerald 0.2
-extradelight:sugar_cookie_diamond 0.4
-extradelight:honey_popsicle 1.2
-extradelight:hot_wings 6.0
-extradelight:mint_candy_green 0.0
-extradelight:nut_butter_cookie 0.4
-extradelight:blood_chocolate_chips 0.0
-extradelight:mushroom_burger 24.0
-extradelight:pumpkin_cheesecake_slice 1.8000001
-extradelight:roasted_pumpkin_seeds 0.2
-extradelight:mashed_potato_gravy 7.0
-extradelight:dried_chili 3.6000001
-extradelight:raw_sugar_cookie_steve 0.2
-extradelight:frosting_cyan 0.0
-extradelight:white_chocolate_syrup_bottle 0.8
-extradelight:white_chili 7.0
-extradelight:roasted_garlic 1.2
-extradelight:blood_chocolate_dipped_coffee_bean 0.4
-extradelight:morkovcha 3.6000001
-extradelight:nut_butter_custard 8.400001
-extradelight:cooked_corn 2.4
-extradelight:melon_fruit_salad_serving 9.6
-extradelight:jelly_orange 0.6
-extradelight:key_lime_pie_slice 2.4
-extradelight:candy_golden_apple 9.6
-extradelight:fluffer_nutter 9.6
-extradelight:hazelnut_soup 8.400001
-extradelight:sliced_tomato 0.0
-extradelight:chicken_stew_rice 18.199999
-extradelight:pork_stew_rice 20.800001
-extradelight:cheese 4.8
-extradelight:gingerbread_sword 0.4
-extradelight:carrot_soup 12.599999
-extradelight:raw_gingerbread_creeper 0.2
-extradelight:kyiv_cake_slice 3.6000001
-extradelight:crisp_rice 4.8
-extradelight:hazelnut_spread_bottle 0.4
-extradelight:bacon_egg_cheese_sandwich 25.6
-extradelight:seaweed_crisps 2.4
-extradelight:pumpkin_custard 8.400001
-extradelight:cheesy_garlic_bread 4.8
-extradelight:sugar_cookie_creeper 0.4
-extradelight:ice_cream 4.8
-extradelight:natto_item 1.0
-extradelight:pickled_sausage_item 9.6
-extradelight:lava_cake 0.4
-extradelight:raw_sugar_cookie_sword 0.2
-extradelight:candy_light_blue 0.0
-extradelight:pumpkin_roll 1.8000001
-extradelight:raw_gingerbread_villager 0.2
-extradelight:thai_melon_salad 1.6
-extradelight:cheese_souffle 15.6
-extradelight:dark_chocolate_dipped_graham_cracker 1.6
-extradelight:frosting_yellow 0.0
-extradelight:melon_rind 0.4
-extradelight:aioli_jar_item 2.4
-extradelight:rice_pudding 8.400001
-extradelight:jelly_yellow 0.6
-extradelight:muffin_apple 1.2
-extradelight:lugaw 18.199999
-extradelight:apple_sauce 2.4
-extradelight:frosting_pink 0.0
-extradelight:raw_gingerbread_alex 0.2
-extradelight:cheese_sandwich 9.6
-extradelight:sugar_cookie 0.4
-extradelight:bread_slice 1.2
-extradelight:shirazi_salad 4.8
-extradelight:bacon_egg_pie_slice 3.2
-extradelight:lemon_meringue_pie_slice 3.6000001
-extradelight:sweet_berry_custard 8.400001
-extradelight:candied_ginger 0.0
-extradelight:chili_con_carne 8.4
-extradelight:candy_gray 0.0
-extradelight:gingerbread_villager 0.4
-extradelight:white_chocolate_dipped_coffee_bean 0.4
-extradelight:roasted_hazelnuts 1.2
-extradelight:grated_carrot 3.6000001
-extradelight:candy_white 0.0
-extradelight:grilled_grapefruit 2.4
-extradelight:roasted_cocoa_beans 0.4
-extradelight:sliced_lime 0.4
-extradelight:honey_chili_chicken 12.0
-extradelight:corn_pudding 6.0
-extradelight:white_chocolate_dipped_glow_berry 0.4
-extradelight:dark_chocolate_truffle 0.0
-extradelight:toffee 1.2
-extradelight:stuffed_cactus 20.400002
-extradelight:frosting_orange 0.0
-extradelight:dark_chocolate_dipped_sweet_berry 0.4
-extradelight:rack_lamb 11.2
-extradelight:milk_chocolate_dipped_glow_berry 0.4
-extradelight:sausage_roll 17.6
-extradelight:corn_flakes 2.4
-extradelight:sliced_ginger 0.6
-extradelight:cheesymite_scroll 4.8
-extradelight:curry_rice 18.199999
-extradelight:raw_sugar_cookie_diamond 0.2
-extradelight:frosting_green 0.0
-extradelight:salami_mix 0.0
-extradelight:lime_souffle 10.8
-extradelight:corn_flakes_cereal 6.4
-extradelight:preserved_lemon_pasta 13.200001
-extradelight:dark_chocolate_dipped_apple_slice 2.4
-extradelight:caramel_candy 1.2
-extradelight:fish_stew_rice 28.800001
-extradelight:chocolate_cookie_dough 0.2
-extradelight:scotcharoo 3.6000001
-extradelight:sticky_toffee_pudding_slice 3.6000001
-extradelight:milk_chocolate_dipped_marshmallow 0.8
-extradelight:buttered_pasta 9.6
-extradelight:riceball 5.6
-extradelight:sauerkraut_soup 8.4
-extradelight:frosting_white 0.0
-extradelight:sugar_cookie_steve 0.4
-extradelight:marshmallow_fluff_bottle 1.6
-extradelight:frosting_gray 0.0
-extradelight:jerky 12.8
-extradelight:roasted_apple 4.8
-extradelight:glow_berry_cheesecake_slice 1.8000001
-extradelight:sauerkraut_item 3.2
-extradelight:cucumber_salad 3.6000001
-extradelight:candy_cyan 0.0
-extradelight:jelly_blue 0.6
-extradelight:cinnamon_rolls 3.6000001
-extradelight:mint_candy_red 0.0
-extradelight:tarte_tatin_slice 6.0
-extradelight:potroast 9.6
-extradelight:apple_custard 8.400001
-extradelight:cactus 1.2
-extradelight:crackers 0.0
-extradelight:stewed_apples 7.2000003
-extradelight:melon_gazpacho 3.6000001
-extradelight:chicken_fried_steak 27.2
-extradelight:milk_chocolate_bar 0.8
-extradelight:crisp_rice_treat 1.6
-extradelight:milk_chocolate_dipped_apple_slice 2.4
-extradelight:furikake_rice 4.8
-extradelight:grapefruit_beetroot_salad 6.0
-extradelight:toast 1.2
-extradelight:candy_cane_green 0.0
-extradelight:fish_salad 14.400001
-extradelight:nut_butter_ice_cream 7.2000003
-extradelight:gingerbread_cookie 0.4
-extradelight:mint_candy_blue 0.0
-extradelight:blondie 2.4
-extradelight:cornbread 4.8
-extradelight:omelette 19.2
-extradelight:mint_lamb 24.0
-extradelight:preserved_lemon_item 0.8
-extradelight:corn_chowder 17.6
-extradelight:blood_chocolate_dipped_marshmallow 0.8
-extradelight:cactus_eggs 8.0
-extradelight:trail_mix 1.2
-extradelight:quiche_slice 6.4
-extradelight:breadcrumbs 1.2
-extradelight:jelly_red 0.6
-extradelight:raw_gingerbread_diamond 0.2
-extradelight:seaweed_salad 7.2000003
-extradelight:sliced_potato 0.6
-extradelight:orange_chicken 14.400001
-extradelight:kiwiburger 25.6
-extradelight:jelly_light_blue 0.6
-extradelight:apple_popsicle 1.2
-extradelight:croque_madame 20.800001
-extradelight:chocolate_cake 0.4
-extradelight:bbq_ribs 12.8
-extradelight:mayo_jar_item 1.6
-extradelight:gingerbread_cookie_dough 0.2
-extradelight:beef_bulgogi 9.6
-extradelight:soaked_soybeans_item 1.0
-extradelight:rombosse 10.8
-extradelight:milk_chocolate_dipped_sweet_berry 0.4
-extradelight:carrot_salad 4.8
-extradelight:cooked_cactus 3.6000001
-extradelight:haggis 9.6
-extradelight:currywurst 9.6
-extradelight:affogato 7.2000003
-extradelight:milk_chocolate_truffle 0.0
-extradelight:coffee_jelly 0.6
-extradelight:stirfry 20.800001
-extradelight:mississippi_mud_pie_slice 4.8
-extradelight:glow_berry_pie_slice 1.8000001
-extradelight:monkey_bread 3.6000001
-extradelight:milk_chocolate_dipped_bacon 1.2
-extradelight:roll 1.2
-extradelight:marshmallow 0.8
-extradelight:candy_bar_salad 4.8
-extradelight:rocky_road 2.4
-extradelight:fried_fish 14.400001
-extradelight:graham_cracker 1.6
-extradelight:mashed_soybeans_item 1.0
-extradelight:citrus_onion_salad 4.0
-extradelight:pumpkin_cookie_dough 0.2
-extradelight:pickled_onion_item 4.8
-extradelight:frosting_red 0.0
-extradelight:cactus_salad 15.6
-extradelight:pickled_fish_item 1.2
-extradelight:bacon_cheeseburger 30.4
-extradelight:hazelnuts 0.4
+supplementaries:lumisene_bottle
+supplementaries:candy
+seeddelight:cherry_ice_cream
+seeddelight:rosehip
+seeddelight:cherry
+seeddelight:roasted_beef_with_seed
+seeddelight:rosehip_pie_slice
+seeddelight:seed_tart
+seeddelight:fried_sunflower_seed
+seeddelight:cherry_pork
+seeddelight:pine_needle_wine
+seeddelight:pinenut_gruel
+seeddelight:dried_watermelon_seed
+seeddelight:cherry_jam_sandwich
+seeddelight:milk_cherry_mouss
+seeddelight:pinenut_with_meatballs
+seeddelight:sunflower_seed_toast
+seeddelight:cherry_wine
+seeddelight:acorn_tofu
+seeddelight:rosehip_jam_sandwich
+seeddelight:rosehip_tea
+seeddelight:acorn_bread
+seeddelight:seed_rosehip_pie
+seeddelight:rosehip_cake
+seeddelight:stir_fried_cabbage_with_acorn
+seeddelight:acorn_kernel
+seeddelight:rose_cookie
+seeddelight:pine_nut_kernel
+seeddelight:dried_pumpkin_seed
+seeddelight:sunflower_seed_crisp
+seeddelight:raw_acorn_noodle
+seeddelight:pinenut_cake
+aquaculturedelight:tuna_spaghetti
+aquaculturedelight:buckling
+aquaculturedelight:crispy_nori_kelp
+aquaculturedelight:rollmops
+aquaculturedelight:crispy_fried_perch
+aquaculturedelight:fish_and_chips
+aquaculturedelight:fish_chorba
+aquaculturedelight:bass_stew
+aquaculturedelight:unusual_fish_soup
+aquaculturedelight:jellyfish_jelly
+aquaculturedelight:fried_perch_roll
+aquaculturedelight:halaszle
+aquaculturedelight:halibut_with_tartar_sauce
+aquaculturedelight:catfish_barbecue
+aquaculturedelight:small_turtle_meat
+aquaculturedelight:cooked_small_turtle_meat
+aquaculturedelight:large_fish_with_vegetables
+aquaculturedelight:raw_fish_fillet_roll
+aquaculturedelight:baked_pollock_with_carrots
+aquaculturedelight:poor_fisher_chowder
+aquaculturedelight:turtle_meat_dish
+nether_remastered:seal_of_the_underworld_item
+brewinandchewin:vegetable_omelet
+brewinandchewin:scarlet_cheese_wedge
+brewinandchewin:glittering_grenadine
+brewinandchewin:mead
+brewinandchewin:glow_berry_marmalade
+brewinandchewin:kippers
+brewinandchewin:red_rum
+brewinandchewin:salty_folly
+brewinandchewin:apple_jelly
+brewinandchewin:creamy_onion_soup
+brewinandchewin:cheesy_pasta
+brewinandchewin:fiery_fondue
+brewinandchewin:pickled_pickles
+brewinandchewin:horror_lasagna
+brewinandchewin:vodka
+brewinandchewin:pizza_slice
+brewinandchewin:kimchi
+brewinandchewin:flaxen_cheese_wedge
+brewinandchewin:dread_nog
+brewinandchewin:ham_and_cheese_sandwich
+brewinandchewin:cocoa_fudge
+brewinandchewin:pale_jane
+brewinandchewin:scarlet_pierogi
+brewinandchewin:quiche_slice
+brewinandchewin:kombucha
+brewinandchewin:steel_toe_stout
+brewinandchewin:withering_dross
+brewinandchewin:beer
+brewinandchewin:jerky
+brewinandchewin:rice_wine
+brewinandchewin:saccharine_rum
+brewinandchewin:sweet_berry_jam
+brewinandchewin:egg_grog
+brewinandchewin:strongroot_ale
+brewinandchewin:bloody_mary
+oceansdelight:elder_guardian_roll
+oceansdelight:elder_guardian_slice
+oceansdelight:cooked_elder_guardian_slice
+oceansdelight:fugu_slice
+oceansdelight:baked_tentacle_on_a_stick
+oceansdelight:cooked_stuffed_cod
+oceansdelight:cut_tentacles
+oceansdelight:seagrass_salad
+oceansdelight:honey_fried_kelp
+oceansdelight:tentacles
+oceansdelight:stuffed_cod
+oceansdelight:cooked_guardian_tail
+oceansdelight:braised_sea_pickle
+oceansdelight:squid_rings
+oceansdelight:tentacle_on_a_stick
+oceansdelight:elder_guardian_slab
+oceansdelight:bowl_of_guardian_soup
+oceansdelight:cabbage_wrapped_elder_guardian
+oceansdelight:fugu_roll
+oceansdelight:guardian_tail
+aquaculture:bluegill
+aquaculture:red_grouper
+aquaculture:piranha
+aquaculture:smallmouth_bass
+aquaculture:sushi
+aquaculture:tambaqui
+aquaculture:atlantic_herring
+aquaculture:synodontis
+aquaculture:atlantic_cod
+aquaculture:boulti
+aquaculture:algae
+aquaculture:brown_trout
+aquaculture:bayad
+aquaculture:muskellunge
+aquaculture:blackfish
+aquaculture:tuna
+aquaculture:atlantic_halibut
+aquaculture:perch
+aquaculture:capitaine
+aquaculture:fish_fillet_raw
+aquaculture:red_shrooma
+aquaculture:turtle_soup
+aquaculture:brown_shrooma
+aquaculture:pacific_halibut
+aquaculture:carp
+aquaculture:gar
+aquaculture:rainbow_trout
+aquaculture:pink_salmon
+aquaculture:pollock
+aquaculture:catfish
+aquaculture:arapaima
+aquaculture:fish_fillet_cooked
+aether:enchanted_berry
+aether:golden_gummy_swet
+aether:blue_berry
+aether:blue_gummy_swet
+aether:healing_stone
+aether:gingerbread_man
+aether:candy_cane
+aether:white_apple
+deep_aether:cooked_aerglow_fish
+deep_aether:enchanted_antidote
+deep_aether:cooked_quail
+deep_aether:green_squash_slice
+deep_aether:goldenleaf_berries
+deep_aether:raw_aerglow_fish
+deep_aether:purple_squash_slice
+deep_aether:raw_quail
+deep_aether:antidote
+deep_aether:blue_squash_slice
+farmersdelight_extended:shredded_potatoes
+farmersdelight_extended:spicy_fried_chicken
+farmersdelight_extended:chocolate_roll
+farmersdelight_extended:fresh_cheese
+farmersdelight_extended:spicy_chicken_and_fries
+farmersdelight_extended:fried_cod
+farmersdelight_extended:breakfast_plate
+farmersdelight_extended:chicken_and_fries
+farmersdelight_extended:fish_and_chips
+farmersdelight_extended:cheeseburger
+farmersdelight_extended:cut_potatoes
+farmersdelight_extended:fries
+farmersdelight_extended:fried_chicken
+farmersdelight_extended:battered_chicken
+farmersdelight_extended:hashbrowns
+farmersdelight_extended:toast
+farmersdelight_extended:beef_wellington
+farmersdelight_extended:battered_cod
+farmersdelight_extended:bread_slice
+farmersdelight_extended:honey_roll
+farmersdelight_extended:chicken_parmesan
+farmersdelight:tomato
+farmersdelight:steak_and_potatoes
+farmersdelight:honey_cookie
+farmersdelight:kelp_roll
+farmersdelight:tomato_sauce
+farmersdelight:cooked_chicken_cuts
+farmersdelight:cod_roll
+farmersdelight:apple_pie_slice
+farmersdelight:cooked_salmon_slice
+farmersdelight:fried_rice
+farmersdelight:beef_patty
+farmersdelight:cooked_rice
+farmersdelight:mixed_salad
+farmersdelight:egg_sandwich
+farmersdelight:raw_pasta
+farmersdelight:squid_ink_pasta
+farmersdelight:pie_crust
+farmersdelight:chicken_soup
+farmersdelight:melon_popsicle
+farmersdelight:onion
+farmersdelight:glow_berry_custard
+farmersdelight:fried_egg
+farmersdelight:pumpkin_soup
+farmersdelight:pumpkin_slice
+farmersdelight:nether_salad
+farmersdelight:ham
+farmersdelight:mutton_chops
+farmersdelight:cod_slice
+farmersdelight:beef_stew
+farmersdelight:cooked_cod_slice
+farmersdelight:cabbage_rolls
+farmersdelight:pasta_with_meatballs
+farmersdelight:hamburger
+farmersdelight:mutton_wrap
+farmersdelight:chicken_cuts
+farmersdelight:roast_chicken
+farmersdelight:barbecue_stick
+farmersdelight:salmon_slice
+farmersdelight:cabbage
+farmersdelight:kelp_roll_slice
+farmersdelight:stuffed_pumpkin
+farmersdelight:chicken_sandwich
+farmersdelight:cooked_mutton_chops
+farmersdelight:cabbage_leaf
+farmersdelight:dumplings
+farmersdelight:roasted_mutton_chops
+farmersdelight:chocolate_pie_slice
+farmersdelight:smoked_ham
+farmersdelight:mushroom_rice
+farmersdelight:bone_broth
+farmersdelight:noodle_soup
+farmersdelight:bacon_and_eggs
+farmersdelight:honey_glazed_ham
+farmersdelight:minced_beef
+farmersdelight:stuffed_potato
+farmersdelight:sweet_berry_cheesecake_slice
+farmersdelight:sweet_berry_cookie
+farmersdelight:salmon_roll
+farmersdelight:fish_stew
+farmersdelight:apple_cider
+farmersdelight:shepherds_pie
+farmersdelight:cake_slice
+farmersdelight:bacon_sandwich
+farmersdelight:fruit_salad
+farmersdelight:vegetable_soup
+farmersdelight:dog_food
+farmersdelight:grilled_salmon
+farmersdelight:pasta_with_mutton_chop
+farmersdelight:wheat_dough
+farmersdelight:cooked_bacon
+farmersdelight:vegetable_noodles
+farmersdelight:ratatouille
+farmersdelight:bacon
+farmersdelight:baked_cod_stew
+mynethersdelight:giant_takoyaki
+mynethersdelight:hot_wings
+mynethersdelight:slices_of_bread
+mynethersdelight:bleeding_tartar
+mynethersdelight:plate_of_stuffed_hoglin
+mynethersdelight:hot_cream_cone
+mynethersdelight:plate_of_cold_striderloaf
+mynethersdelight:strider_stew
+mynethersdelight:hotdog
+mynethersdelight:cooked_loin
+mynethersdelight:scotch_eggs
+mynethersdelight:rock_soup
+mynethersdelight:plate_of_stuffed_hoglin_snout
+mynethersdelight:strider_egg
+mynethersdelight:strider_with_grilled_fungus
+mynethersdelight:stuffed_pepper
+mynethersdelight:fried_hoglin_chop
+mynethersdelight:enchanted_golden_egg
+mynethersdelight:twisted_ghasta
+mynethersdelight:ghast_salad
+mynethersdelight:plate_of_ghasta_with_cream
+mynethersdelight:red_loin_on_a_stick
+mynethersdelight:toasts
+mynethersdelight:tear_popsicle
+mynethersdelight:boiled_egg
+mynethersdelight:hotdog_with_nether_salad
+mynethersdelight:ghasta
+mynethersdelight:crimson_stroganoff
+mynethersdelight:spicy_hoglin_stew
+mynethersdelight:burnt_roll
+mynethersdelight:chilidog
+mynethersdelight:ghast_dough
+mynethersdelight:magma_cake_slice
+mynethersdelight:sausage_and_potatoes
+mynethersdelight:spicy_cotton
+mynethersdelight:fries_ghasta
+mynethersdelight:blue_tenderloin_steak
+mynethersdelight:egg_soup
+mynethersdelight:spicy_curry
+mynethersdelight:hoglin_sausage
+mynethersdelight:minced_strider
+mynethersdelight:bullet_pepper
+mynethersdelight:golden_egg
+mynethersdelight:spicy_noodle_soup
+mynethersdelight:roast_ear
+mynethersdelight:plate_of_striderloaf
+mynethersdelight:hot_wings_bucket
+mynethersdelight:hot_cream
+mynethersdelight:hotdog_with_mixed_salad
+mynethersdelight:dried_ghast_with_milk
+mynethersdelight:roasted_sausage
+mynethersdelight:breakfast_sampler
+mynethersdelight:plate_of_stuffed_hoglin_ham
+mynethersdelight:deviled_egg
+mynethersdelight:bacon-wrapped_sausage_on_a_stick
+mynethersdelight:hoglin_loin
+mynethersdelight:ghast_sourdough
+mynethersdelight:nether_burger
+mynethersdelight:spicy_skewer
+mynethersdelight:sizzling_pudding
+mynethersdelight:strider_slice
+rusticdelight:cooking_oil
+rusticdelight:calamari_roll
+rusticdelight:fruit_beignet
+rusticdelight:bell_pepper_slice_yellow
+rusticdelight:syrup
+rusticdelight:stuffed_bell_pepper_green
+rusticdelight:roasted_bell_pepper_slice_yellow
+rusticdelight:sweet_salad
+rusticdelight:chocolate_coffee
+rusticdelight:bell_pepper_roll_red
+rusticdelight:syrup_cheesecake_slice
+rusticdelight:baked_potato_slices
+rusticdelight:stuffed_bell_pepper_red
+rusticdelight:chocolate_pancake
+rusticdelight:fried_dough
+rusticdelight:roasted_bell_pepper_yellow
+rusticdelight:bell_pepper_roll_green
+rusticdelight:calamari
+rusticdelight:fried_calamari
+rusticdelight:bell_pepper_roll_yellow
+rusticdelight:bell_pepper_yellow
+rusticdelight:fried_mushrooms
+rusticdelight:bell_pepper_green
+rusticdelight:honey_coffee
+rusticdelight:syrup_coffee
+rusticdelight:bell_pepper_slice_red
+rusticdelight:stuffed_bell_pepper_yellow
+rusticdelight:coffee_cookie
+rusticdelight:syrup_cookie
+rusticdelight:bell_pepper_red
+rusticdelight:cooked_calamari
+rusticdelight:roasted_bell_pepper_green
+rusticdelight:coffee
+rusticdelight:cherry_blossom_pancake
+rusticdelight:cooked_calamari_slice
+rusticdelight:pumpkin_pancake
+rusticdelight:roasted_coffee_beans
+rusticdelight:bell_pepper_slice_green
+rusticdelight:bell_pepper_pasta
+rusticdelight:milk_coffee
+rusticdelight:potato_salad
+rusticdelight:spring_rolls
+rusticdelight:pancake
+rusticdelight:cherry_blossom_roll
+rusticdelight:vegetable_pancake
+rusticdelight:cherry_blossom_cheesecake_slice
+rusticdelight:golden_coffee_beans
+rusticdelight:roasted_bell_pepper_slice_green
+rusticdelight:fried_chicken
+rusticdelight:fried_dumplings
+rusticdelight:dark_coffee
+rusticdelight:roasted_bell_pepper_red
+rusticdelight:cherry_blossom_cookie
+rusticdelight:bell_pepper_soup
+rusticdelight:coffee_braised_beef
+rusticdelight:calamari_slice
+rusticdelight:roasted_bell_pepper_slice_red
+rusticdelight:potato_slices
+rusticdelight:syrup_sandwich
+rusticdelight:batter
+rusticdelight:honey_pancake
+culturaldelights:midori_roll
+culturaldelights:glow_squid
+culturaldelights:avocado
+culturaldelights:midori_roll_slice
+culturaldelights:egg_roll
+culturaldelights:cut_eggplant
+culturaldelights:calamari_roll
+culturaldelights:eggplant
+culturaldelights:empanada
+culturaldelights:tropical_roll
+culturaldelights:cut_cucumber
+culturaldelights:corn_dough
+culturaldelights:eggplant_burger
+culturaldelights:smoked_white_eggplant
+culturaldelights:pufferfish_roll
+culturaldelights:fish_taco
+culturaldelights:chicken_roll_slice
+culturaldelights:smoked_eggplant
+culturaldelights:cooked_calamari
+culturaldelights:mutton_sandwich
+culturaldelights:poached_eggplants
+culturaldelights:hearty_salad
+culturaldelights:tortilla
+culturaldelights:popcorn
+culturaldelights:smoked_cut_eggplant
+culturaldelights:squid
+culturaldelights:beef_burrito
+culturaldelights:raw_calamari
+culturaldelights:spicy_curry
+culturaldelights:cucumber
+culturaldelights:pork_wrap
+culturaldelights:smoked_tomato
+culturaldelights:creamed_corn
+culturaldelights:rice_ball
+culturaldelights:cooked_squid
+culturaldelights:eggplant_parmesan
+culturaldelights:elote
+culturaldelights:cut_avocado
+culturaldelights:corn_cob
+culturaldelights:chicken_roll
+culturaldelights:tortilla_chips
+culturaldelights:pickle
+culturaldelights:cut_pickle
+culturaldelights:white_eggplant
+culturaldelights:avocado_toast
+culturaldelights:chicken_taco
+fruitsdelight:persimmon_jam
+fruitsdelight:orange_jello
+fruitsdelight:durian_flesh
+fruitsdelight:hawberry_jello
+fruitsdelight:cranberry_jam
+fruitsdelight:chorus_jam
+fruitsdelight:fig_tart
+fruitsdelight:orange_juice
+fruitsdelight:mango_jello
+fruitsdelight:persimmon_jello
+fruitsdelight:bellini_cocktail
+fruitsdelight:baked_pear
+fruitsdelight:blueberry_jello
+fruitsdelight:peach_jello
+fruitsdelight:fig
+fruitsdelight:lemon
+fruitsdelight:pear
+fruitsdelight:cranberry_jello
+fruitsdelight:pear_with_rock_sugar
+fruitsdelight:cranberry_cookie
+fruitsdelight:kiwi_jello
+fruitsdelight:pear_juice
+fruitsdelight:lychee_cherry_tea
+fruitsdelight:hamimelon_juice
+fruitsdelight:mango
+fruitsdelight:hawberry_tea
+fruitsdelight:lychee_jello
+fruitsdelight:fig_jello
+fruitsdelight:fig_chicken_stew
+fruitsdelight:hamimelon_shaved_ice
+fruitsdelight:pineapple_pie
+fruitsdelight:glowberry_jam
+fruitsdelight:peach_jam
+fruitsdelight:lemon_tart
+fruitsdelight:mangosteen_jello
+fruitsdelight:kiwi_popsicle
+fruitsdelight:peach
+fruitsdelight:pear_jam
+fruitsdelight:lemon_cookie
+fruitsdelight:hamimelon_jello
+fruitsdelight:lemon_juice
+fruitsdelight:hamimelon_popsicle
+fruitsdelight:hawberry_roll
+fruitsdelight:lychee_jam
+fruitsdelight:fig_pudding_slice
+fruitsdelight:durian_jam
+fruitsdelight:persimmon
+fruitsdelight:durian_jello
+fruitsdelight:orange_marinated_pork
+fruitsdelight:baked_durian
+fruitsdelight:cranberry_muffin
+fruitsdelight:durian_pie
+fruitsdelight:pineapple_jam
+fruitsdelight:mango_tea
+fruitsdelight:mango_jam
+fruitsdelight:lychee_chicken
+fruitsdelight:chorus_jello
+fruitsdelight:mangosteen_tea
+fruitsdelight:lychee
+fruitsdelight:hamimelon_slice
+fruitsdelight:lemon_jello
+fruitsdelight:kiwi_jam
+fruitsdelight:hawberry_jam
+fruitsdelight:fig_jam
+fruitsdelight:pineapple_slice
+fruitsdelight:bowl_of_pineapple_fried_rice
+fruitsdelight:peach_tea
+fruitsdelight:hamimelon_jam
+fruitsdelight:melon_jam
+fruitsdelight:lemon_slice
+fruitsdelight:sweetberry_jello
+fruitsdelight:mango_salad
+fruitsdelight:pear_jello
+fruitsdelight:kiwi
+fruitsdelight:mangosteen_cake
+fruitsdelight:lemon_jam
+fruitsdelight:orange_chicken
+fruitsdelight:mango_milkshake
+fruitsdelight:bayberry_cookie
+fruitsdelight:glowberry_jello
+fruitsdelight:kiwi_juice
+fruitsdelight:orange
+fruitsdelight:cranberry
+fruitsdelight:blueberry_custard
+fruitsdelight:bayberry_soup
+fruitsdelight:orange_jam
+fruitsdelight:hawberry_stick
+fruitsdelight:dried_persimmon
+fruitsdelight:pineapple_jello
+fruitsdelight:mangosteen
+fruitsdelight:apple_jam
+fruitsdelight:jam_bread
+fruitsdelight:blueberry_jam
+fruitsdelight:hawberry
+fruitsdelight:pineapple_marinated_pork
+fruitsdelight:blueberry_muffin
+fruitsdelight:mangosteen_jam
+fruitsdelight:orange_slice
+fruitsdelight:persimmon_cookie
+fruitsdelight:bayberry_jello
+fruitsdelight:sweetberry_jam
+fruitsdelight:blueberry
+fruitsdelight:melon_jello
+fruitsdelight:bayberry_jam
+fruitsdelight:bayberry
+fruitsdelight:apple_jello
+fruitsdelight:hawberry_sheet
+ars_nouveau:mendosteen_pod
+ars_nouveau:source_berry_roll
+ars_nouveau:frostaya_pod
+ars_nouveau:bastion_pod
+ars_nouveau:source_berry_pie
+ars_nouveau:bombegranate_pod
+ars_nouveau:sourceberry_bush
+arsdelight:unstable_cocktail
+arsdelight:source_berry_jelly
+arsdelight:source_berry_jam
+arsdelight:mendosteen_tea
+arsdelight:bombegrante_steak
+arsdelight:bombegrante_hornbeer
+arsdelight:frostaya_pie_slice
+arsdelight:wilden_meat_slice
+arsdelight:grilled_wilden_meat_slice
+arsdelight:wilden_skewer
+arsdelight:arch_sauce
+arsdelight:frostaya_tea
+arsdelight:source_berry_cookie
+arsdelight:mendosteen_jelly
+arsdelight:frostaya_hornbeer
+arsdelight:bowl_of_honey_glazed_chimera
+arsdelight:bastion_pie_slice
+arsdelight:mendosteen_chicken
+arsdelight:bombegrante_pie_slice
+arsdelight:horn_roll
+arsdelight:frostaya_mutton
+arsdelight:source_berry_tea
+arsdelight:bastion_pork
+arsdelight:bombegrante_tea
+arsdelight:grilled_chimera_meat
+arsdelight:grilled_wilden_skewer
+arsdelight:source_berry_cupcake
+arsdelight:bastion_jelly
+arsdelight:grilled_chimera_skewer
+arsdelight:bowl_of_wilden_salad
+arsdelight:mendosteen_pie_slice
+arsdelight:wilden_sauce
+arsdelight:source_berry_hornbeer
+arsdelight:bastion_tea
+arsdelight:mendosteen_hornbeer
+arsdelight:wilden_stew
+arsdelight:source_berry_pie_slice
+arsdelight:chimera_skewer
+arsdelight:frostaya_jelly
+arsdelight:neutralized_bombegrante_jam
+arsdelight:bastion_hornbeer
+arsdelight:activated_mendosteen_jam
+arsdelight:grilled_wilden_meat
+arsdelight:neutralized_frostaya_jam
+arsdelight:chimera_meat
+arsdelight:grilled_chimera_meat_slice
+arsdelight:activated_bastion_jam
+arsdelight:chimera_meat_slice
+arsdelight:arch_soup
+arsdelight:wilden_meat
+arsdelight:bombegrante_jelly
+camping:roasted_marshmallow
+camping:marshmallow
+trailandtales_delight:golden_lantern_fruit
+trailandtales_delight:ancient_coffee
+trailandtales_delight:cherry_cheese_slice
+trailandtales_delight:pitcher_plant_tea
+trailandtales_delight:cheese_slice
+trailandtales_delight:cherry_cake_slice
+trailandtales_delight:cooked_pitcher_taro
+trailandtales_delight:cherry_cheese_pie_slice
+trailandtales_delight:torchflower_tea
+trailandtales_delight:fried_sniffer_egg
+trailandtales_delight:pitcher_taro
+trailandtales_delight:cherry_petal_tea
+trailandtales_delight:lantern_fruit
+trailandtales_delight:baked_pitcher_pod
+trailandtales_delight:stuffed_sniffer_egg
+trailandtales_delight:baked_torchflower_seeds
+vinery:jo_special_mixture
+vinery:white_grape
+vinery:lilitu_wine
+vinery:creepers_crush
+vinery:savanna_grapes_red
+vinery:bolvar_wine
+vinery:clark_wine
+vinery:cherry
+vinery:jungle_grapes_white
+vinery:strad_wine
+vinery:stal_wine
+vinery:apple_wine
+vinery:savanna_grapes_white
+vinery:noir_wine
+vinery:cherry_wine
+vinery:taiga_grapes_red
+vinery:taiga_grapes_white
+vinery:bottle_mojang_noir
+vinery:kelp_cider
+vinery:solaris_wine
+vinery:rotten_cherry
+vinery:chorus_wine
+vinery:glowing_wine
+vinery:villagers_fright
+vinery:chenet_wine
+vinery:magnetic_wine
+vinery:mead
+vinery:cristel_wine
+vinery:jungle_grapes_red
+vinery:red_wine
+vinery:eiswein
+vinery:mellohi_wine
+vinery:apple_mash
+vinery:red_grape
+vinery:jellie_wine
+vinery:apple_cider
+vinery:aegis_wine
+beachparty:coconut_open
+beachparty:cooked_mussel_meat
+beachparty:raw_mussel_meat
+beachparty:sweetberries_cocktail
+beachparty:coconut_cocktail
+beachparty:cocoa_cocktail
+beachparty:honey_cocktail
+beachparty:pumpkin_cocktail
+beachparty:melon_cocktail
+veggiesdelight:zucchini_slice
+veggiesdelight:turnip_mutton_skewer
+veggiesdelight:baked_sweet_potato
+veggiesdelight:potato_noodles
+veggiesdelight:carrot_juice
+veggiesdelight:sweet_potato_dough
+veggiesdelight:smoked_bellpepper
+veggiesdelight:cauliflower
+veggiesdelight:stuffed_bellpepper
+veggiesdelight:sweet_potato_cupcake
+veggiesdelight:dandelion_juice
+veggiesdelight:turnip_water
+veggiesdelight:roasted_garlic_clove
+veggiesdelight:roasted_vegetables
+veggiesdelight:cauliflower_bread
+veggiesdelight:mhadjeb
+veggiesdelight:potato_noodle
+veggiesdelight:coleslaw
+veggiesdelight:turnip_beef_stew
+veggiesdelight:broccoli_salad
+veggiesdelight:shakshouka
+veggiesdelight:sweet_potato_pancakes
+veggiesdelight:vegan_pizza_slice
+veggiesdelight:broccoli_soup
+veggiesdelight:roasted_cauliflower_floret
+veggiesdelight:vegetables_wrap
+veggiesdelight:stuffed_zucchinis
+veggiesdelight:cooked_vegetarian_patty
+veggiesdelight:turnip
+veggiesdelight:dandelion_leaf
+veggiesdelight:fish_and_chips
+veggiesdelight:chicken_fajitas_wrap
+veggiesdelight:stuffed_zucchini_boat
+veggiesdelight:zucchini_quiche_slice
+veggiesdelight:garlic_clove
+veggiesdelight:zucchini_sandwich
+veggiesdelight:garlic_rice_with_cauliflower
+veggiesdelight:turnip_cake
+veggiesdelight:carrot_cake_slice
+veggiesdelight:sweet_potato
+veggiesdelight:vegetarian_burger
+veggiesdelight:rice_and_vegetables
+veggiesdelight:steak_and_broccoli
+veggiesdelight:pasta_with_broccoli
+veggiesdelight:uncooked_mhadjeb
+veggiesdelight:zucchini
+veggiesdelight:fermented_garlic_honey
+veggiesdelight:cauliflower_soup
+veggiesdelight:cauliflower_floret
+veggiesdelight:garlic_bread
+veggiesdelight:roasted_zucchini
+veggiesdelight:garlic_stuffed_mushrooms
+veggiesdelight:cacciatore
+veggiesdelight:cauliflower_kuku
+veggiesdelight:mashed_potatoes
+veggiesdelight:bellpepper
+veggiesdelight:beetroot_brownie
+veggiesdelight:lasagna_slice
+veggiesdelight:cesar_salad
+veggiesdelight:raw_vegetarian_patty
+veggiesdelight:garlic_baked_cod
+veggiesdelight:sweet_potato_pie_slice
+veggiesdelight:garlic_chicken_stew
+veggiesdelight:dandelion_and_eggs
+veggiesdelight:turnip_salad
+veggiesdelight:broccoli
+create:builders_tea
+create:bar_of_chocolate
+create:sweet_roll
+create:honeyed_apple
+create:chocolate_glazed_berries
+dndesires:vanilla_milkshake
+dndesires:chocolate_milkshake
+dndesires:strawberry_milkshake
+dndesires:pumpkin_milkshake
+dndesires:glowberry_milkshake
+artifacts:everlasting_beef
+artifacts:onion_ring
+artifacts:eternal_steak
+atmospheric:passion_fruit
+atmospheric:blood_orange
+atmospheric:orange_pudding
+atmospheric:shimmering_passion_fruit
+atmospheric:aloe_leaves
+atmospheric:aloe_gel_bottle
+atmospheric:orange
+atmospheric:passion_fruit_sorbet
+atmospheric:yucca_fruit
+atmospheric:candied_orange_slices
+atmospheric:passion_fruit_tart
+atmospheric:roasted_yucca_fruit
+atmospheric:orange_sorbet
+atmospheric:currant
+atmospheric:ender_dragon_fruit
+atmospheric:currant_muffin
+atmospheric:golden_dragon_fruit
+atmospheric:dragon_fruit
+expandeddelight:snickerdoodle
+expandeddelight:chili_pepper
+expandeddelight:sweet_berry_jelly_sandwich
+expandeddelight:asparagus_soup
+expandeddelight:sweet_berry_juice
+expandeddelight:peanut
+expandeddelight:peperonata
+expandeddelight:asparagus
+expandeddelight:cranberry_juice
+expandeddelight:glow_berry_jelly
+expandeddelight:glow_berry_jelly_sandwich
+expandeddelight:cranberry_chicken
+expandeddelight:chocolate_cookie
+expandeddelight:asparagus_soup_creamy
+expandeddelight:peanut_honey_soup
+expandeddelight:sweet_potato_salad
+expandeddelight:goat_cheese_slice
+expandeddelight:peanut_butter_sandwich
+expandeddelight:grilled_cheese
+expandeddelight:baked_sweet_potato
+expandeddelight:cinnamon_apples
+expandeddelight:sugar_cookie
+expandeddelight:cranberries
+expandeddelight:glow_berry_juice
+expandeddelight:cranberry_goat_cheese_toast
+expandeddelight:cheese_sandwich
+expandeddelight:sweet_potato
+expandeddelight:honeyed_goat_cheese_tart_slice
+expandeddelight:cheese_slice
+expandeddelight:peanut_butter_honey_sandwich
+expandeddelight:apple_juice
+expandeddelight:peanut_salad
+expandeddelight:sweet_berry_jelly
+expandeddelight:sweet_potato_casserole
+expandeddelight:asparagus_and_bacon_cheesy
+expandeddelight:glow_berry_sweet_roll
+expandeddelight:mac_and_cheese
+expandeddelight:asparagus_mushroom_pasta
+expandeddelight:cranberry_cobbler_slice
+expandeddelight:berry_sweet_roll
+expandeddelight:cinnamon_rice
+expandeddelight:sweet_roll
+expandeddelight:cranberry_jelly
+expandeddelight:peanut_butter
+moredelight:bread_slice
+moredelight:steak_sandwich
+moredelight:chicken_salad
+moredelight:carrot_soup
+moredelight:simple_hamburger
+moredelight:cooked_rice_with_chicken_cuts
+moredelight:cooked_rice_with_porkchop
+moredelight:diced_potatoes
+moredelight:toast_with_blueberries
+moredelight:tomato_sandwich
+moredelight:toast
+moredelight:diced_potatoes_with_chicken_cuts
+moredelight:toast_with_egg
+moredelight:cooked_rice_with_beef
+moredelight:toast_with_glow_berries
+moredelight:diced_potatoes_with_beef
+moredelight:porkchop_sandwich
+moredelight:chicken_sandwich_with_egg_and_tomato
+moredelight:creamy_pasta_with_chicken_cuts
+moredelight:diced_potatoes_with_egg_and_tomato
+moredelight:creamy_pasta_with_ham
+moredelight:diced_potatoes_with_porkchop
+moredelight:toast_with_chocolate
+moredelight:omelette
+moredelight:hamburger_with_cheese
+moredelight:potato_salad
+moredelight:toast_with_cheese
+moredelight:hamburger_with_egg
+moredelight:toast_with_sweet_berries
+moredelight:loaded_hamburger
+moredelight:mashed_potatoes
+moredelight:egg_with_bacon_sandwich
+moredelight:chocolate_popsicle
+moredelight:toast_with_honey
+moredelight:toast_with_peanut_butter
+ars_elemental:flashpine_pod
+wildernature:bison_meat
+wildernature:cassowary_meat
+wildernature:turkey_meat
+wildernature:hazelnut
+wildernature:cooked_bison_meat
+wildernature:cooked_turkey_meat
+wildernature:pelican_meat
+wildernature:cooked_venison
+wildernature:cooked_pelican_meat
+wildernature:cooked_cassowary_meat
+wildernature:venison
+extradelight:roasted_peanuts
+extradelight:unripe_salami_item
+extradelight:dark_chocolate_dipped_glow_berry
+extradelight:onion_bhaji
+extradelight:white_chocolate_chips
+extradelight:dark_chocolate_chips
+extradelight:candy_lime
+extradelight:raw_gingerbread_steve
+extradelight:gingerbread_alex
+extradelight:miso_paste_item
+extradelight:stuffed_mushrooms
+extradelight:garlic_clove
+extradelight:mulligatawny_soup
+extradelight:beet_mint_salad
+extradelight:melon_layer_cake_slice
+extradelight:green_coffee
+extradelight:boiled_egg
+extradelight:cheeseburger_pickle
+extradelight:fat_potatoes
+extradelight:blood_chocolate_dipped_graham_cracker
+extradelight:chicken_stew
+extradelight:sugar_cookie_pickaxe
+extradelight:candy_orange
+extradelight:panforte_slice
+extradelight:fish_soup
+extradelight:ginger
+extradelight:lemon_curd
+extradelight:raw_gingerbread_sword
+extradelight:onion_soup
+extradelight:chocolate_orange
+extradelight:cream_corn
+extradelight:coffee_beans
+extradelight:dark_chocolate_bar
+extradelight:baked_alaska_serving
+extradelight:pork_tenderloin
+extradelight:caramel_popsicle
+extradelight:candy_brown
+extradelight:gherkin_item
+extradelight:garlic_bread
+extradelight:candy_light_gray
+extradelight:peeled_ginger
+extradelight:kimchi_item
+extradelight:fried_mushrooms
+extradelight:sweet_berry_cookie_dough
+extradelight:coffee_cherries
+extradelight:sos
+extradelight:macaroni_cheese
+extradelight:pamonha
+extradelight:white_chocolate_dipped_apple_slice
+extradelight:bbq_jar_item
+extradelight:beef_stew_rice
+extradelight:french_fries
+extradelight:meatloaf
+extradelight:congee
+extradelight:honey_ice_cream
+extradelight:caramel_sauce
+extradelight:jelly_black
+extradelight:salad
+extradelight:potato_sticks
+extradelight:yeast_spread
+extradelight:butter
+extradelight:peanut_butter_cup
+extradelight:sweet_berry_pie_slice
+extradelight:fish_cakes
+extradelight:ketchup_jar_item
+extradelight:milk_chocolate_syrup_bottle
+extradelight:potato_au_gratin
+extradelight:pickled_rind_item
+extradelight:frosting_magenta
+extradelight:mint_chip_ice_cream
+extradelight:riceball_filled
+extradelight:dark_chocolate_dipped_coffee_bean
+extradelight:cucumber
+extradelight:croque_monsieur
+extradelight:scrambled_eggs
+extradelight:pumpkin_pie_slice
+extradelight:white_chocolate_dipped_bacon
+extradelight:grated_ginger
+extradelight:frosting_brown
+extradelight:blood_chocolate_syrup_bottle
+extradelight:cooked_pasta
+extradelight:dried_fruit
+extradelight:hashbrowns
+extradelight:edamame
+extradelight:glazed_carrot
+extradelight:glow_berry_popsicle
+extradelight:egg_salad
+extradelight:caramel_popcorn
+extradelight:lasanga
+extradelight:chicken_parm
+extradelight:raw_sugar_cookie_pickaxe
+extradelight:egg_in_the_basket
+extradelight:chicken_alfredo
+extradelight:zupa_ogorkowa
+extradelight:white_chocolate_dipped_marshmallow
+extradelight:honey_cookie_dough
+extradelight:dirt_cake
+extradelight:jalapeno_stuffed_potato
+extradelight:sugar_cookie_villager
+extradelight:candy_apple
+extradelight:jaffa_cake
+extradelight:candy_blue
+extradelight:cinnamon_popsicle
+extradelight:easter_egg
+extradelight:raw_sugar_cookie_alex
+extradelight:french_toast
+extradelight:blood_chocolate_truffle
+extradelight:lamb_stew
+extradelight:tomato_soup
+extradelight:chocolate_ice_cream
+extradelight:white_chocolate_dipped_sweet_berry
+extradelight:milk_tart_slice
+extradelight:borscht
+extradelight:candy_magenta
+extradelight:bacon_egg_sandwich
+extradelight:stuffing
+extradelight:apple_slaw
+extradelight:mallow_cup
+extradelight:caramel_chicken
+extradelight:peppermint_bark
+extradelight:sliced_apple
+extradelight:aglio_e_olio
+extradelight:lemon
+extradelight:alfredo_sauce
+extradelight:corn_fritters
+extradelight:sliced_orange
+extradelight:candy_black
+extradelight:pasta_tomato
+extradelight:peanut_brittle
+extradelight:egg_salad_sandwich
+extradelight:chocolate_mousse
+extradelight:oxtail_soup
+extradelight:potato_chips
+extradelight:liver_onions
+extradelight:cinnamon_toast
+extradelight:lemon_delicious
+extradelight:milk_chocolate_dipped_graham_cracker
+extradelight:ice_cream_sundae
+extradelight:blood_chocolate_dipped_glow_berry
+extradelight:jalapeno_popper
+extradelight:stuffed_apple_ice_cream
+extradelight:candy_cane_red
+extradelight:lamb_stew_rice
+extradelight:pasta_alfredo
+extradelight:jelly_pink
+extradelight:blood_chocolate_filled_bar
+extradelight:potato_soup
+extradelight:salisbury_steak
+extradelight:jelly_green
+extradelight:nut_butter_cookie_dough
+extradelight:jelly_purple
+extradelight:honey_cheesecake_slice
+extradelight:sliced_grapefruit
+extradelight:hot_sauce_item
+extradelight:dark_chocolate_syrup_bottle
+extradelight:sauerkraut_and_sausage
+extradelight:cooked_wheat_seeds
+extradelight:glow_berry_cookie
+extradelight:sliced_onion
+extradelight:grated_potato
+extradelight:grapefruit
+extradelight:whipped_cream
+extradelight:smore
+extradelight:meat_pie_slice
+extradelight:fruit_bread
+extradelight:mushroom_risotto
+extradelight:raw_sugar_cookie_creeper
+extradelight:raw_gingerbread_pickaxe
+extradelight:jelly_brown
+extradelight:garlic
+extradelight:candy_pink
+extradelight:candied_citrus_zest
+extradelight:chicken_kiev
+extradelight:caramel_cheescake_slice
+extradelight:gummies
+extradelight:apple_crisp
+extradelight:sugar_cookie_emerald
+extradelight:pumpkin_cookie
+extradelight:baked_cod_serving
+extradelight:potato_salad
+extradelight:candy_red
+extradelight:caramel_custard
+extradelight:fried_brains
+extradelight:cactus_soup
+extradelight:gingerbread_diamond
+extradelight:muffin_cinnamon
+extradelight:sliced_gherkin_item
+extradelight:cheesecake_slice
+extradelight:jelly_white
+extradelight:white_chocolate_truffle
+extradelight:blood_chocolate_dipped_bacon
+extradelight:roasted_carrot
+extradelight:jelly_lime
+extradelight:glow_berry_ice_cream
+extradelight:sweet_berry_popsicle
+extradelight:hash
+extradelight:pork_stew
+extradelight:muffin_sweet_berry
+extradelight:pickled_carrot_item
+extradelight:chili
+extradelight:stuffed_heart
+extradelight:marshmallow_slice
+extradelight:melon_lime_glazed_chicken
+extradelight:gingerbread_pickaxe
+extradelight:butterscotch
+extradelight:meringue
+extradelight:kongjang
+extradelight:dark_chocolate_dipped_marshmallow
+extradelight:peanut_butter_bottle
+extradelight:grasshopper_pie_slice
+extradelight:cooked_soybeans_item
+extradelight:fish_salad_sandwich
+extradelight:soy_glazed_salmon_item
+extradelight:apple_ice_cream
+extradelight:pumpkin_ice_cream
+extradelight:steak_pickled_onion_pie_slice
+extradelight:grated_garlic
+extradelight:chocolate_cheesecake_slice
+extradelight:candy_cane_blue
+extradelight:sliced_lemon
+extradelight:melon_rind_stirfry
+extradelight:raw_sugar_cookie_villager
+extradelight:fish_chips
+extradelight:pork_tenderloin_sandwich
+extradelight:orange
+extradelight:frosting_black
+extradelight:candy_green
+extradelight:sliced_beetroot_item
+extradelight:aebleflaesk
+extradelight:pork_and_apples
+extradelight:miso_soup
+extradelight:penne_all_arrabbiata
+extradelight:pulled_pork_sandwich
+extradelight:fish_sauce_item
+extradelight:milk_chocolate_filled_bar
+extradelight:kimchi_fried_rice
+extradelight:rabbit_stew_rice
+extradelight:fudge
+extradelight:white_chocolate_filled_bar
+extradelight:frosting_lime
+extradelight:chocolate_custard
+extradelight:nougat
+extradelight:apple_cookie
+extradelight:grilled_corn_on_cob
+extradelight:sugar_cookie_alex
+extradelight:milk_chocolate_chips
+extradelight:salami_item
+extradelight:devilled_sausages
+extradelight:jelly_light_grey
+extradelight:blood_chocolate_bar
+extradelight:black_forest_trifle
+extradelight:sliced_cucumber_item
+extradelight:brownie
+extradelight:fried_chicken
+extradelight:eton_mess
+extradelight:sunflower_seeds
+extradelight:dynamic_toast
+extradelight:lime
+extradelight:gingerbread_steve
+extradelight:candy_purple
+extradelight:grapefruit_sorbet
+extradelight:ice_cubes
+extradelight:dynamic_jam
+extradelight:stuffed_apple
+extradelight:blood_chocolate_dipped_apple_slice
+extradelight:apple_cheesecake_slice
+extradelight:pavlova_slice
+extradelight:jelly_magenta
+extradelight:milk_chocolate_dipped_coffee_bean
+extradelight:pickled_egg_item
+extradelight:soy_sauce_item
+extradelight:chocolate_chip_cookie_dough
+extradelight:peanuts
+extradelight:white_chocolate_bar
+extradelight:honey_custard
+extradelight:croutons
+extradelight:fudge_popsicle
+extradelight:beef_wellington
+extradelight:grilled_cheese
+extradelight:white_chocolate_dipped_graham_cracker
+extradelight:gingerbread_creeper
+extradelight:jelly_grey
+extradelight:sliced_chili
+extradelight:glow_berry_cookie_dough
+extradelight:gingerbread_emerald
+extradelight:pickled_ginger
+extradelight:sugar_cookie_sword
+extradelight:shredded_cabbage_item
+extradelight:crisp_rice_cereal
+extradelight:peanut_butter_jelly
+extradelight:bruschetta
+extradelight:naem_moo_item
+extradelight:caramel_golden_apple
+extradelight:apple_fritters
+extradelight:apple_cookie_dough
+extradelight:chocolate_cookie
+extradelight:caramel_apple
+extradelight:natto_and_rice
+extradelight:raw_sugar_cookie_emerald
+extradelight:sugar_cookie_dough
+extradelight:bad_food
+extradelight:jelly_cyan
+extradelight:hotdish
+extradelight:dark_chocolate_dipped_bacon
+extradelight:dark_chocolate_filled_bar
+extradelight:curry
+extradelight:frosting_purple
+extradelight:candy_yellow
+extradelight:frosting_light_gray
+extradelight:muffin_ginger
+extradelight:frosting_light_blue
+extradelight:cheeseburger
+extradelight:lemon_posset
+extradelight:blood_chocolate_dipped_sweet_berry
+extradelight:sweet_berry_ice_cream
+extradelight:chili_cheese_cornbread_muffin
+extradelight:charcuterie_board
+extradelight:frosting_blue
+extradelight:pickled_beet_item
+extradelight:meatloaf_sandwich
+extradelight:apple_chips
+extradelight:lemon_cucumber_cake_slice
+extradelight:coffee_cake_slice
+extradelight:christmas_pudding
+extradelight:popcorn
+extradelight:gazpacho
+extradelight:cookie_dough_ice_cream
+extradelight:raw_gingerbread_emerald
+extradelight:sugar_cookie_diamond
+extradelight:honey_popsicle
+extradelight:hot_wings
+extradelight:mint_candy_green
+extradelight:nut_butter_cookie
+extradelight:blood_chocolate_chips
+extradelight:mushroom_burger
+extradelight:pumpkin_cheesecake_slice
+extradelight:roasted_pumpkin_seeds
+extradelight:mashed_potato_gravy
+extradelight:dried_chili
+extradelight:raw_sugar_cookie_steve
+extradelight:frosting_cyan
+extradelight:white_chocolate_syrup_bottle
+extradelight:white_chili
+extradelight:roasted_garlic
+extradelight:blood_chocolate_dipped_coffee_bean
+extradelight:morkovcha
+extradelight:nut_butter_custard
+extradelight:cooked_corn
+extradelight:melon_fruit_salad_serving
+extradelight:jelly_orange
+extradelight:key_lime_pie_slice
+extradelight:candy_golden_apple
+extradelight:fluffer_nutter
+extradelight:hazelnut_soup
+extradelight:sliced_tomato
+extradelight:chicken_stew_rice
+extradelight:pork_stew_rice
+extradelight:cheese
+extradelight:gingerbread_sword
+extradelight:carrot_soup
+extradelight:raw_gingerbread_creeper
+extradelight:kyiv_cake_slice
+extradelight:crisp_rice
+extradelight:hazelnut_spread_bottle
+extradelight:bacon_egg_cheese_sandwich
+extradelight:seaweed_crisps
+extradelight:pumpkin_custard
+extradelight:cheesy_garlic_bread
+extradelight:sugar_cookie_creeper
+extradelight:ice_cream
+extradelight:natto_item
+extradelight:pickled_sausage_item
+extradelight:lava_cake
+extradelight:raw_sugar_cookie_sword
+extradelight:candy_light_blue
+extradelight:pumpkin_roll
+extradelight:raw_gingerbread_villager
+extradelight:thai_melon_salad
+extradelight:cheese_souffle
+extradelight:dark_chocolate_dipped_graham_cracker
+extradelight:frosting_yellow
+extradelight:melon_rind
+extradelight:aioli_jar_item
+extradelight:rice_pudding
+extradelight:jelly_yellow
+extradelight:muffin_apple
+extradelight:lugaw
+extradelight:apple_sauce
+extradelight:frosting_pink
+extradelight:raw_gingerbread_alex
+extradelight:cheese_sandwich
+extradelight:sugar_cookie
+extradelight:bread_slice
+extradelight:shirazi_salad
+extradelight:bacon_egg_pie_slice
+extradelight:lemon_meringue_pie_slice
+extradelight:sweet_berry_custard
+extradelight:candied_ginger
+extradelight:chili_con_carne
+extradelight:candy_gray
+extradelight:gingerbread_villager
+extradelight:white_chocolate_dipped_coffee_bean
+extradelight:roasted_hazelnuts
+extradelight:grated_carrot
+extradelight:candy_white
+extradelight:grilled_grapefruit
+extradelight:roasted_cocoa_beans
+extradelight:sliced_lime
+extradelight:honey_chili_chicken
+extradelight:corn_pudding
+extradelight:white_chocolate_dipped_glow_berry
+extradelight:dark_chocolate_truffle
+extradelight:toffee
+extradelight:stuffed_cactus
+extradelight:frosting_orange
+extradelight:dark_chocolate_dipped_sweet_berry
+extradelight:rack_lamb
+extradelight:milk_chocolate_dipped_glow_berry
+extradelight:sausage_roll
+extradelight:corn_flakes
+extradelight:sliced_ginger
+extradelight:cheesymite_scroll
+extradelight:curry_rice
+extradelight:raw_sugar_cookie_diamond
+extradelight:frosting_green
+extradelight:salami_mix
+extradelight:lime_souffle
+extradelight:corn_flakes_cereal
+extradelight:preserved_lemon_pasta
+extradelight:dark_chocolate_dipped_apple_slice
+extradelight:caramel_candy
+extradelight:fish_stew_rice
+extradelight:chocolate_cookie_dough
+extradelight:scotcharoo
+extradelight:sticky_toffee_pudding_slice
+extradelight:milk_chocolate_dipped_marshmallow
+extradelight:buttered_pasta
+extradelight:riceball
+extradelight:sauerkraut_soup
+extradelight:frosting_white
+extradelight:sugar_cookie_steve
+extradelight:marshmallow_fluff_bottle
+extradelight:frosting_gray
+extradelight:jerky
+extradelight:roasted_apple
+extradelight:glow_berry_cheesecake_slice
+extradelight:sauerkraut_item
+extradelight:cucumber_salad
+extradelight:candy_cyan
+extradelight:jelly_blue
+extradelight:cinnamon_rolls
+extradelight:mint_candy_red
+extradelight:tarte_tatin_slice
+extradelight:potroast
+extradelight:apple_custard
+extradelight:cactus
+extradelight:crackers
+extradelight:stewed_apples
+extradelight:melon_gazpacho
+extradelight:chicken_fried_steak
+extradelight:milk_chocolate_bar
+extradelight:crisp_rice_treat
+extradelight:milk_chocolate_dipped_apple_slice
+extradelight:furikake_rice
+extradelight:grapefruit_beetroot_salad
+extradelight:toast
+extradelight:candy_cane_green
+extradelight:fish_salad
+extradelight:nut_butter_ice_cream
+extradelight:gingerbread_cookie
+extradelight:mint_candy_blue
+extradelight:blondie
+extradelight:cornbread
+extradelight:omelette
+extradelight:mint_lamb
+extradelight:preserved_lemon_item
+extradelight:corn_chowder
+extradelight:blood_chocolate_dipped_marshmallow
+extradelight:cactus_eggs
+extradelight:trail_mix
+extradelight:quiche_slice
+extradelight:breadcrumbs
+extradelight:jelly_red
+extradelight:raw_gingerbread_diamond
+extradelight:seaweed_salad
+extradelight:sliced_potato
+extradelight:orange_chicken
+extradelight:kiwiburger
+extradelight:jelly_light_blue
+extradelight:apple_popsicle
+extradelight:croque_madame
+extradelight:chocolate_cake
+extradelight:bbq_ribs
+extradelight:mayo_jar_item
+extradelight:gingerbread_cookie_dough
+extradelight:beef_bulgogi
+extradelight:soaked_soybeans_item
+extradelight:rombosse
+extradelight:milk_chocolate_dipped_sweet_berry
+extradelight:carrot_salad
+extradelight:cooked_cactus
+extradelight:haggis
+extradelight:currywurst
+extradelight:affogato
+extradelight:milk_chocolate_truffle
+extradelight:coffee_jelly
+extradelight:stirfry
+extradelight:mississippi_mud_pie_slice
+extradelight:glow_berry_pie_slice
+extradelight:monkey_bread
+extradelight:milk_chocolate_dipped_bacon
+extradelight:roll
+extradelight:marshmallow
+extradelight:candy_bar_salad
+extradelight:rocky_road
+extradelight:fried_fish
+extradelight:graham_cracker
+extradelight:mashed_soybeans_item
+extradelight:citrus_onion_salad
+extradelight:pumpkin_cookie_dough
+extradelight:pickled_onion_item
+extradelight:frosting_red
+extradelight:cactus_salad
+extradelight:pickled_fish_item
+extradelight:bacon_cheeseburger
+extradelight:hazelnuts
+atmospheric:shimmering_passion_fruit
+atmospheric:orange_pudding
+atmospheric:aloe_leaves
+atmospheric:ender_dragon_fruit
+atmospheric:orange_sorbet
+atmospheric:passion_fruit_tart
+atmospheric:roasted_yucca_fruit
+atmospheric:passion_fruit_sorbet
+atmospheric:yucca_fruit
+atmospheric:currant
+atmospheric:aloe_gel_bottle
+atmospheric:dragon_fruit
+atmospheric:orange
+atmospheric:currant_muffin
+atmospheric:passion_fruit
+atmospheric:candied_orange_slices
+atmospheric:golden_dragon_fruit
+atmospheric:blood_orange
+minecraft:honey_bottle

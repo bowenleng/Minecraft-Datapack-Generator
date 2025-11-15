@@ -88,6 +88,15 @@ def write_file(dir, nameid, prop):
     created_file.write(str(prop).lower().replace("'", '"'))
     created_file.close()
 
+def write_tag_file(filename, vals):
+    file = open(f"resources/data/mca/tags/item/{filename}.json", 'w')
+    prop = {
+        "replalce": False,
+        "values": vals
+    }
+    file.write(str(prop).lower().replace("'", '"'))
+    file.close()
+
 def temperature_item(modid, nameid):
     cold_res = user_input_ranged_float("cold resistance", lower=0)
     if cold_res == 's': return True
@@ -110,7 +119,7 @@ def temperature_item(modid, nameid):
 
 ####### Section 1: Food Analysis #######
 # Section 1 Functions
-def thirst_food(modid, nameid, saturation=0.0):
+def thirst_food(modid, nameid):
     has_effects = input("Would you like to input any effects? (y for yes) ").lower()
     effects = []
     while has_effects[0] == 'y':
@@ -137,6 +146,9 @@ def thirst_food(modid, nameid, saturation=0.0):
 
     hydration = user_input_int("hydration")
     if hydration == 's': return True
+
+    saturation = user_input_ranged_float("saturation", lower=0)
+    if saturation == 's': return True
 
     dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/thirst/consumables"
     prop = [
@@ -219,12 +231,6 @@ def analyze_food():
     lactose = []
 
     for item in file.readlines():
-        parts = item.strip().split(' ')
-        item = parts[0]
-        try:
-            saturation = float(parts[1])
-        except:
-            saturation = 0.0
         print("\n\n", '-' * 32)
         print("Item name:", item)
         mca_class = input("MCA classification (c for confectionary, g for gluten, l for lactose): ").lower()[0]
@@ -236,12 +242,16 @@ def analyze_food():
         modid = parts[0]
         nameid = parts[1]
 
+        # code written in order skip unecessary analysis
+        if (modid in ["artifacts","atmopsheric","beachparty","brewinandchewin","camping","create","curios","decorative_blocks","farmersdelight","farmersrespite","hardcore_torches","legendarysurvivaloverhaul","rusticdelight","supplementaries","vinery","wildernature"]):
+            continue
+
         print("There are three categories of food, damage(d), temperature(t), and thirst(h)")
         category = input("Please enter the category of food you would like to do: ").lower()
         if category == 's': continue
         if 'h' in category:
             print("\nThirst Characteristics:")
-            if thirst_food(modid, nameid, saturation):
+            if thirst_food(modid, nameid):
                 print(f"Skipping all characterisitcs for {item}")
                 continue
         if 't' in category:
@@ -254,31 +264,11 @@ def analyze_food():
             if damage_food(modid, nameid):
                 print(f"Skipping all characterisitcs for {item}")
                 continue
-        
     file.close()
-    confect_file = open("resources/data/mca/tags/item/confectionaries.json", 'w')
-    prop = {
-        "replace": False,
-        "values": confect
-    }
-    confect_file.write(str(prop).lower())
-    confect_file.close()
-
-    gluten_file = open("resources/data/mca/tags/item/gluten.json", 'w')
-    prop = {
-        "replalce": False,
-        "values": gluten
-    }
-    gluten_file.write(str(prop).lower())
-    gluten_file.close()
-
-    lactose_file = open("resources/data/mca/tags/item/lactose.json", 'w')
-    prop = {
-        "replace": False,
-        "values": lactose
-    }
-    lactose_file.write(str(prop).lower())
-    lactose_file.close()
+    
+    write_tag_file("confectionaries", confect)
+    write_tag_file("gluten", gluten)
+    write_tag_file("lactose", lactose)
 
 ####### Section 2: Biome Analysis #######
 # Section 2 Code
@@ -540,7 +530,7 @@ def main():
     print("There are 5 sections available, each corresponding to a category that is analyzed")
     print("They are:")
     print("0 = food\n1 = biome\n2 = armor\n3 = block\n4 = items")
-    val = user_input_ranged_pos_int("category", upper=5)
+    val = user_input_ranged_pos_int("category", upper=4)
     if val == 's': return
     if val == 0: analyze_food()
     elif val == 1: analyze_biomes()
