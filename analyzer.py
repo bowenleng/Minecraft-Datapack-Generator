@@ -75,7 +75,7 @@ def user_input_ranged_float(name, skip='s', lower=float("-inf"), upper=float("in
     return float(val)
 
 def write_file(dir, nameid, prop):
-    filename = dir + "/" + nameid + ".json"
+    filename = dir + "/" + nameid.strip() + ".json"
     if not os.path.exists(dir):
         os.makedirs(dir)
     
@@ -107,7 +107,7 @@ def temperature_item(modid, nameid):
     thermal = user_input_ranged_float("thermal resistance", lower=0)
     if thermal == 's': return True
 
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/items"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/items"
     prop = {
         "cold_resistance": cold_res,
         "heat_resistance": heat_res,
@@ -150,7 +150,7 @@ def thirst_food(modid, nameid):
     saturation = user_input_ranged_float("saturation", lower=0)
     if saturation == 's': return True
 
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/thirst/consumables"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/thirst/consumables"
     prop = [
         {
             "effects": effects,
@@ -201,7 +201,7 @@ def temperature_food(modid, nameid):
         ]
     else: return True
     
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/consumables"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/consumables"
     write_file(dir, nameid, prop)
     return False
 
@@ -211,7 +211,7 @@ def damage_food(modid, nameid):
     heal_val = user_input_ranged_float("healing value", lower=0)
     amplifier = user_input_pos_int("amplifier")
     duration = user_input_pos_int("duration")
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/body_damage/consumables"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/body_damage/consumables"
     prop = {
         "healing_charges": heal_charge,
         "healing_time": heal_time,
@@ -223,7 +223,7 @@ def damage_food(modid, nameid):
     return False
 
 # Section 1 Code
-def analyze_food():
+def categorize_food():
     file = open("food.txt", 'r')
 
     confect = []
@@ -231,19 +231,33 @@ def analyze_food():
     lactose = []
 
     for item in file.readlines():
+        if item.index(':') == -1: continue
         print("\n\n", '-' * 32)
         print("Item name:", item)
-        mca_class = input("MCA classification (c for confectionary, g for gluten, l for lactose): ").lower()[0]
-        if mca_class == 'c': confect.append(item)
-        elif mca_class == 'g': gluten.append(item)
-        elif mca_class == 'l': lactose.append(item)
+        mca_class = input("MCA classification (c for confectionary, g for gluten, l for lactose): ")
+        if 'c' in mca_class: confect.append(item)
+        if 'g' in mca_class: gluten.append(item)
+        if 'l' in mca_class: lactose.append(item)
+    
+    write_tag_file("confectionaries", confect)
+    write_tag_file("gluten", gluten)
+    write_tag_file("lactose", lactose)
+
+
+def analyze_food():
+    file = open("food.txt", 'r')
+
+    for item in file.readlines():
+        if item.index(':') == -1: continue
+        print("\n\n", '-' * 32)
+        print("Item name:", item)
 
         parts = item.split(':')
         modid = parts[0]
         nameid = parts[1]
 
         # code written in order skip unecessary analysis
-        if (modid in ["artifacts","atmopsheric","beachparty","brewinandchewin","camping","create","curios","decorative_blocks","farmersdelight","farmersrespite","hardcore_torches","legendarysurvivaloverhaul","rusticdelight","supplementaries","vinery","wildernature"]):
+        if (modid in ["artifacts","beachparty","brewinandchewin","camping","create","curios","decorative_blocks","farmersdelight","farmersrespite","hardcore_torches","legendarysurvivaloverhaul","rusticdelight","supplementaries","vinery","wildernature"]):
             continue
 
         print("There are three categories of food, damage(d), temperature(t), and thirst(h)")
@@ -265,17 +279,13 @@ def analyze_food():
                 print(f"Skipping all characterisitcs for {item}")
                 continue
     file.close()
-    
-    write_tag_file("confectionaries", confect)
-    write_tag_file("gluten", gluten)
-    write_tag_file("lactose", lactose)
 
 ####### Section 2: Biome Analysis #######
 # Section 2 Code
 def analyze_biomes():
-    print("The remaining sections are all specifically for Minecraft Survival Overhaul")
     file = open("biomes.txt", 'r')
     for biome in file.readlines():
+        if biome.index(':') == -1: continue
         print('-' * 32)
         print("\n\nBiome name:", biome)
         parts = biome.strip().split(':')
@@ -290,7 +300,7 @@ def analyze_biomes():
             print(f"Skipping all characterisitcs for {biome}")
             continue
         
-        dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/biomes"
+        dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/biomes"
         prop = {
             "is_dry": is_dry,
             "temperature": temperature
@@ -316,7 +326,7 @@ def damage_armor(modid, nameid):
     rarm_res = user_input_ranged_float("right arm resistance", lower=0)
     if rarm_res == 's': return True
     
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/body_damage/items"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/body_damage/items"
     prop = {
         "body_resistance": body_res,
         "chest_resistance": chest_res,
@@ -333,6 +343,7 @@ def damage_armor(modid, nameid):
 def analyze_armor():
     file = open("armor.txt", 'r')
     for armor in file.readlines():
+        if armor.index(':') == -1: continue
         print("\n\n", '-' * 32)
         print("Armor piece name:", armor)
         parts = armor.strip().split(':')
@@ -372,7 +383,7 @@ def temperature_block(modid, nameid):
         vals.append(properties)
         if cont == 's': return True
     
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/blocks"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/blocks"
     write_file(dir, nameid, vals)
     return False
 
@@ -407,7 +418,7 @@ def thirst_block(modid, nameid):
     saturation = user_input_ranged_float("saturation", lower=0)
     if saturation == 's': return True
 
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/thirst/blocks"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/thirst/blocks"
     prop = [
         {
             "effects": effects,
@@ -445,7 +456,7 @@ def damage_block(modid, nameid):
     if dmg_id == 1: dmg_dist = "ONE_OF"
     elif dmg_id == 2: dmg_dist = "ALL"
 
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/body_damage/damage_sources"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/body_damage/damage_sources"
     prop = {
         "body_parts": body_parts,
         "damage_distribution": dmg_dist
@@ -457,6 +468,7 @@ def damage_block(modid, nameid):
 def analyze_blocks():
     file = open("block.txt", 'r')
     for block in file.readlines():
+        if block.index(':') == -1: continue
         print("\n\n", '-' * 32)
         print("Block name:", block)
         parts = block.strip().split(':')
@@ -492,7 +504,7 @@ def fuel_item(modid, nameid):
     elif typein == 'c': therm_type = "COOLING"
     else: return True
 
-    dir = "resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/fuel_items"
+    dir = "./resources/data/" + modid + "/legendarysurvivaloverhaul/temperature/fuel_items"
     prop = [
         {
             "duration": duration,
@@ -506,6 +518,7 @@ def fuel_item(modid, nameid):
 def analyze_items():
     file = open("items.txt", 'r')
     for item in file.readlines():
+        if item.index(':') == -1: continue
         print("\n\n", '-' * 32)
         print("Item name:", item)
         parts = item.strip().split(':')
@@ -529,14 +542,15 @@ def analyze_items():
 def main():
     print("There are 5 sections available, each corresponding to a category that is analyzed")
     print("They are:")
-    print("0 = food\n1 = biome\n2 = armor\n3 = block\n4 = items")
-    val = user_input_ranged_pos_int("category", upper=4)
+    print("0 = food (category)\n1 = food (analysis)\n2 = biome\n3 = armor\n4 = block\n5 = items")
+    val = user_input_ranged_pos_int("category", upper=5)
     if val == 's': return
-    if val == 0: analyze_food()
-    elif val == 1: analyze_biomes()
-    elif val == 2: analyze_armor()
-    elif val == 3: analyze_blocks()
-    elif val == 4: analyze_items()
+    if val == 0: categorize_food()
+    elif val == 1: analyze_food()
+    elif val == 2: analyze_biomes()
+    elif val == 3: analyze_armor()
+    elif val == 4: analyze_blocks()
+    elif val == 5: analyze_items()
 
 if __name__ == "__main__":
     main()

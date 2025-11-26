@@ -1,0 +1,6 @@
+<item:aether:blue_aercloud>, <item:aether:cold_aercloud>
+<item:aether:crystal_leaves>, <item:aether:skyroot_leaves>
+<item:deep_aether:frozen_goldenleaf_berries>, <item:deep_aether:goldenleaf_berries>
+<item:aether:music_disc_high>, <item:aether:music_disc_chinchilla>
+<item:aether:ice_pendant>, <tag:aether:freezable_pendants>
+<item:aether:ice_ring>, <tag:aether:freezable_rings>

@@ -1,0 +1,11 @@
+tag:c:glass_blocks
+tag:c:glass_panes
+tag:c:dyes
+item:deep_aether:squall_plate
+item:minecraft:water_bucket
+item:minecraft:lava_bucket
+item:supplementaries:soap
+item:minecraft:glass_bottle
+item:minecraft:kelp
+item:minecraft:brown_mushroom
+item:minecraft:red_mushroom
